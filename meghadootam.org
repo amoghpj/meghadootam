@@ -1,18 +1,23 @@
+#+PROPERTY: header-args:text :tangle meghadootam.dn
+
 * headers
 
-#+begin_src ascii :tangle meghadootam.dn
+#+begin_src text
 \documentclass{article}
 \usepackage{devanagari}
+\title{{\dn meGaduuta.m - kAlidAsa}}
+\date{}
 \begin{document}
+\maketitle
 #+end_src
 
 * [2020-03-26 Thu]
-
-#+begin_src ascii :tangle meghadootam.dn
+** 1
+#+begin_src text
 \section*{{\dn \dnnum 1}}
 
 \begin{enumerate}
-\item[{\dn ka"srcit}] A Yaksha 
+\item[{\dn ka"srcit}] Some(one) [Yaksha]
 
 \item[{\dn kAntAvirahaguru.nA}] weighed downed with immense viraha, separation from a loved one (kanta)
 
@@ -36,10 +41,23 @@
 
 \end{enumerate}
 
-A love-lorn yaskha is cursed to a year of separation due to his misdeeds,
+\begin{center}
 
-mopes under a tree at the Ramagiri ashram, where Sita once bathed.
+Cursed for his misdeeds,
 
+Stripped of strength, 
+
+a year separated from his lover,
+
+our Yasksha mopes under the gentle tree shade,
+
+in Ramagiri, where Sita bathed.
+
+\end{center}
+#+END_SRC
+
+** 2 
+#+BEGIN_SRC text
 \section*{{\dn \dnnum 2}}
 \begin{enumerate}
 
@@ -63,14 +81,60 @@ mopes under a tree at the Ramagiri ashram, where Sita once bathed.
 
 \item[{\dn dadar"sa}]
 
-
-\item[{\dn}]
 \end{enumerate}
-
 #+end_src
+** 3
+#+BEGIN_SRC text
+\section*{{\dn \dnnum 3}}
+\begin{enumerate}
+\item[{\dn tasya sTitvA}]
 
+\item[{\dn kaTamapi puraH}]
+
+\item[{\dn kautugADAnahetu}]
+
+\item[{\dn antarbA.spa"srviramanucaro}]
+
+\item[{\dn rAjarAjasya daDyau}]
+
+\item[{\dn meGAloke Bavati}]
+
+\item[{\dn suKino.apyasyaTAv.rtti cetaH}]
+
+\item[{\dn ka.n.TA"srle.sapra.nAyini}]
+
+\item[{\dn jane ki.m punarduurasa.msTe}]
+\end{enumerate}
+#+end_src
+** 4 
+#+begin_src text
+\section*{{\dn \dnnum 4}}
+\begin{enumerate}
+\item[{\dn pratyAsanne}]
+
+\item[{\dn naBAsi}]
+
+\item[{\dn dayitAjiivitAlambanArTii.m}]
+
+\item[{\dn jiimuutena}]
+
+\item[{\dn svaku"salamayii.m}]
+
+\item[{\dn hArayi.syanprav.rttim}]
+
+\item[{\dn sa pratyagraiH}]
+
+\item[{\dn ku.tajakusumaiH}]
+
+\item[{\dn kalpitArGAya tasmai}]
+
+\item[{\dn priitaH priitipramuKavacana.m}]
+
+\item[{\dn svAgata.m vyAjahAra}]
+
+\end{enumerate}
+#+end_src
 * footer
-#+begin_src ascii :tangle meghadootam.dn
+#+begin_src text
 \end{document}
-
 #+end_src
