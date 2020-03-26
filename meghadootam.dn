@@ -1,14 +1,7 @@
-* headers
-
-#+begin_src ascii :tangle meghadootam.dn
 \documentclass{article}
 \usepackage{devanagari}
 \begin{document}
-#+end_src
 
-* [2020-03-26 Thu]
-
-#+begin_src ascii :tangle meghadootam.dn
 \section*{{\dn \dnnum 1}}
 
 \begin{enumerate}
@@ -67,10 +60,4 @@ mopes under a tree at the Ramagiri ashram, where Sita once bathed.
 \item[{\dn}]
 \end{enumerate}
 
-#+end_src
-
-* footer
-#+begin_src ascii :tangle meghadootam.dn
 \end{document}
-
-#+end_src
