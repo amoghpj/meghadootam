@@ -191,3 +191,8 @@
 #+begin_src text
   \end{document}
 #+end_src
+* local variables                                                  :noexport:
+
+# Local Variables:
+# eval: (add-hook 'after-save-hook (lambda () (org-babel-tangle) (call-process-shell-command "devnag meghadootam.dn" nil "*meghadootam compilation*" t) (call-process-shell-command "pdflatex meghadootam.tex" nil "*meghadootam compilation*" t)) nil t)
+# End:
