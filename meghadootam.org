@@ -90,12 +90,28 @@
   \item[{\dn dadar"sa}] To him [Yaksha] appears
 
   \end{enumerate}
+
+\begin{center}
+There, atop a mountain,
+
+The months of separation from his helpless beloved,
+
+Causing his frame to be so weakened,
+
+That his golden armlet from his forearm slips!
+
+Our Yaksha sees the first rainclouds of Ashadha,
+
+Embracing the moutain top,
+
+As a lonesome elephant, butting against the riverbank.
+\end{center}
 #+end_src
 ** 3
 #+BEGIN_SRC text
   \section*{{\dn \dnnum 3}}
   \begin{enumerate}
-  \item[{\dn tasya sTitvA}] Standing there
+  \item[{\dn tasya sTitvA}] Standing thus (in remorse)
 
   \item[{\dn kaTamapi puraH}] Somehow, in front of him is
 
@@ -120,7 +136,7 @@
 
   \end{enumerate}
 #+end_src
-** 4 
+** 4
 #+begin_src text
   \section*{{\dn \dnnum 4}}
   \begin{enumerate}
