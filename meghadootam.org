@@ -1,140 +1,193 @@
-#+PROPERTY: header-args:text :tangle meghadootam.dn
+#+PROPERTY: header-args:text :tangle meghadootam.dn 
 
 * headers
 
 #+begin_src text
-\documentclass{article}
-\usepackage{devanagari}
-\title{{\dn meGaduuta.m - kAlidAsa}}
-\date{}
-\begin{document}
-\maketitle
+  \documentclass{article}
+  \usepackage{devanagari}
+  \title{{\dn meGaduuta.m - kAlidAsa}}
+  \date{}
+  \begin{document}
+  \maketitle
 #+end_src
 
 * [2020-03-26 Thu]
 ** 1
 #+begin_src text
-\section*{{\dn \dnnum 1}}
+  \section*{{\dn \dnnum 1}}
 
-\begin{enumerate}
-\item[{\dn ka"srcit}] Some(one) [Yaksha]
+  \begin{enumerate}
+  \item[{\dn ka"srcit}] Some(one) [Yaksha]
 
-\item[{\dn kAntAvirahaguru.nA}] weighed downed with immense viraha, separation from a loved one (kanta)
+  \item[{\dn kAntAvirahaguru.nA}] weighed downed with immense viraha, separation from a loved one (kanta)
 
-\item[{\dn svADikArAtpramattaH}] ?
+  \item[{\dn svADikArAtpramattaH}] Unable to carry out his tasks
 
-\item[{\dn "sApenAsta.mgamitamahimA}] His strength/greatness lost by the curse
+  \item[{\dn "sApenAsta.mgamitamahimA}] His strength/greatness lost by the curse
 
-\item[{\dn var.saBogye.na BartuH}] year long separation?
+  \item[{\dn var.saBogye.na BartuH}] year long separation?
 
-\item[{\dn yak.sa"srcakre}] 
+  \item[{\dn yak.sa"srcakre}] ?
 
-\item[{\dn janakatanayA}] Sita's
+  \item[{\dn janakatanayA}] Sita's [Janaka's daughter]
 
-\item[{\dn snAnapu.nyodake.su}] bathing place
+  \item[{\dn snAnapu.nyodake.su}] bathing place
 
-\item[{\dn snigDacchAyAtaru.su}] soft/gentle shadow of a tree
+  \item[{\dn snigDacchAyAtaru.su}] soft/gentle shadow of a tree
 
-\item[{\dn vasatim}]  stays
+  \item[{\dn vasatim}]  stays
 
-\item[{\dn ramagiryA"srame.su}]  at Ramagiri Ashram
+  \item[{\dn ramagiryA"srame.su}]  at Ramagiri Ashram
 
-\end{enumerate}
+  \end{enumerate}
 
-\begin{center}
+  \begin{center}
 
-Cursed for his misdeeds,
+  Cursed for his misdeeds,
 
-Stripped of strength, 
+  Stripped of strength, 
 
-a year separated from his lover,
+  a year separated from his lover,
 
-our Yasksha mopes under the gentle tree shade,
+  our Yasksha mopes under the gentle tree shade,
 
-in Ramagiri, where Sita bathed.
+  in Ramagiri, where Sita bathed.
 
-\end{center}
+  \end{center}
 #+END_SRC
 
 ** 2 
 #+BEGIN_SRC text
-\section*{{\dn \dnnum 2}}
-\begin{enumerate}
+  \section*{{\dn \dnnum 2}}
+  \begin{enumerate}
 
-\item[{\dn tasminnadrau}] At the peak of the mountain
+  \item[{\dn tasminnadrau}] At the peak of the mountain [Supposedly {\dn citrakuu.ta}]
 
-\item[{\dn katicidabalA}] the one left weak
+  \item[{\dn katicidabalA}] the one left weak [the helpless one = lover]
 
-\item[{\dn viprayuktaH}] deprived of 
+  \item[{\dn viprayuktaH}] deprived of 
 
-\item[{\dn sa kAmi}] that Yaksha who is sensual
+  \item[{\dn sa kAmi}] that Yaksha who is sensual
 
-\item[{\dn niitvA}]
+  \item[{\dn niitvA mAsAn}] After/spending many months
 
-\item[{\dn mAsAnkanakavalayaBra.m"sariktaprako.s.TaH}] 
+  \item[{\dn kanakavalayaBra.m"sa}] Gold armlet slips [from]
 
-\item[{\dn A.sA.Dasya praTamadivase}] First day of Ashadha
+  \item[{\dn riktaprako.s.TaH}] weakened arm
 
-\item[{\dn meGamA"srli.s.tasAnu.m}]
+  \item[{\dn A.sA.Dasya praTamadivase}] First day of Ashadha
 
-\item[{\dn vaprakrii.dApari.natagajaprek.sa.niiya.m}]
+  \item[{\dn meGaH}] cloud [megha]
 
-\item[{\dn dadar"sa}]
+  \item[{\dn A"srli.s.tasAnu.m}] embracing the mountain top [{\dn sAnu}]
 
-\end{enumerate}
+  \item[{\dn vapra}] [against river] bank
+
+  \item[{\dn krii.dApari.natagaja}] elephant playing by bending down 
+
+  \item[{\dn prek.sa.niiya.m}] appealing to the eye
+
+  \item[{\dn dadar"sa}] To him [Yaksha] appears
+
+  \end{enumerate}
 #+end_src
 ** 3
 #+BEGIN_SRC text
-\section*{{\dn \dnnum 3}}
-\begin{enumerate}
-\item[{\dn tasya sTitvA}]
+  \section*{{\dn \dnnum 3}}
+  \begin{enumerate}
+  \item[{\dn tasya sTitvA}] Standing there
 
-\item[{\dn kaTamapi puraH}]
+  \item[{\dn kaTamapi puraH}] Somehow, in front of him is
 
-\item[{\dn kautugADAnahetu}]
+  \item[{\dn kautugADAnahetu}] That which creates ({\dn ADAna}) longing ({\dn kautuka}) [in the mind]
 
-\item[{\dn antarbA.spa"srviramanucaro}]
+  \item[{\dn antarbA.spa"srviram }] Trying to control inner tears -
 
-\item[{\dn rAjarAjasya daDyau}]
+  \item[{\dn anucaraH rAjarAjasya}] -servant of Kuber [Yaksha]
 
-\item[{\dn meGAloke Bavati}]
+  \item[{\dn daDyau}] upon this, he stands thinking:
 
-\item[{\dn suKino.apyasyaTAv.rtti cetaH}]
+  \item[{\dn meGAloke Bavati}]  As looking at the cloud creates/induces
 
-\item[{\dn ka.n.TA"srle.sapra.nAyini}]
+  \item[{\dn suKino.apyanyaTAv.rtti cetaH}] in otherwise happy ({\dn suKi}) people's minds are moved
 
-\item[{\dn jane ki.m punarduurasa.msTe}]
-\end{enumerate}
+  \item[{\dn ka.n.TA"srle.sapra.nayini}] Those yearning to embrace the necks of their lovers
+
+  \item[{\dn duurasa.msTe}]  situated at the distance
+
+  \item[{\dn jane ki.m punaH}] Of them then what?
+
+
+  \end{enumerate}
 #+end_src
 ** 4 
 #+begin_src text
-\section*{{\dn \dnnum 4}}
+  \section*{{\dn \dnnum 4}}
+  \begin{enumerate}
+  \item[{\dn pratyAsanne}]
+
+  \item[{\dn naBAsi}]
+
+  \item[{\dn dayitAjiivitAlambanArTii.m}]
+
+  \item[{\dn jiimuutena}]
+
+  \item[{\dn svaku"salamayii.m}]
+
+  \item[{\dn hArayi.syanprav.rttim}]
+
+  \item[{\dn sa pratyagraiH}]
+
+  \item[{\dn ku.tajakusumaiH}] Offered the Kutaja flowers
+
+  \item[{\dn kalpitArGAya tasmai}]
+
+  \item[{\dn priitaH priitipramuKavacana.m}]
+
+  \item[{\dn svAgata.m vyAjahAra}] Welcomed [the cloud]
+
+  \end{enumerate}
+#+end_src
+* [2020-03-28 Sat]
+** 5
+#+begin_src text
+  \section*{{\dn \dnnum 5}}
+
 \begin{enumerate}
-\item[{\dn pratyAsanne}]
+\item[{\dn DuumajyotiH}] 
 
-\item[{\dn naBAsi}]
+\item[{\dn salilamarutAm}] 
 
-\item[{\dn dayitAjiivitAlambanArTii.m}]
+\item[{\dn sa.mnipAtaH tka meGaH}] 
 
-\item[{\dn jiimuutena}]
+\item[{\dn s.mde"sArTA.m tka }] 
 
-\item[{\dn svaku"salamayii.m}]
+\item[{\dn pa.tukara.naiH}] 
 
-\item[{\dn hArayi.syanprav.rttim}]
+\item[{\dn prA.niBiH prApa.niiyAH}] 
 
-\item[{\dn sa pratyagraiH}]
+\item[{\dn ityautsukyAdapariga.nayanguhyakasta.m}] 
 
-\item[{\dn ku.tajakusumaiH}]
+\item[{\dn yayAce}] 
 
-\item[{\dn kalpitArGAya tasmai}]
+\item[{\dn kAmArtA hi}] 
 
-\item[{\dn priitaH priitipramuKavacana.m}]
+\item[{\dn prak.rtik.rpa.nA"srvetanAcetane.su}] 
+\end{enumerate}
+#+end_src
+** 6
+#+begin_src text
+  \section*{{\dn \dnnum 6}}
 
-\item[{\dn svAgata.m vyAjahAra}]
+\begin{enumerate}
+\item[{\dn jAta.m va.m"se}] 
 
+\item[{\dn Buvanavidite pu.skarAvartakAnA.m}] 
+
+\item[{\dn janAmi ntA.m}] 
 \end{enumerate}
 #+end_src
 * footer
 #+begin_src text
-\end{document}
+  \end{document}
 #+end_src
