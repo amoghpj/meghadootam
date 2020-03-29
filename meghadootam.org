@@ -1,8 +1,8 @@
-#+PROPERTY: header-args:text :tangle meghadootam.dn 
+#+PROPERTY: header-args:devanagari :tangle meghadootam.dn :comments link
 
 * headers
 
-#+begin_src text
+#+begin_src devanagari
   \documentclass{article}
   \usepackage{devanagari}
   \usepackage[left=2in,bottom=1in]{geometry}
@@ -15,7 +15,7 @@
 
 * [2020-03-26 Thu]
 ** 1
-#+begin_src text
+#+begin_src devanagari
   \section*{{\dn \dnnum 1}}
 
   \begin{enumerate}
@@ -54,7 +54,7 @@
 #+END_SRC
 
 ** 2 
-#+BEGIN_SRC text
+#+BEGIN_SRC devanagari
   \section*{{\dn \dnnum 2}}
   \begin{enumerate}
 
@@ -99,7 +99,7 @@ A lonesome elephant, playfully butting against the riverbank.}
 \end{center}
 #+end_src
 ** 3
-#+BEGIN_SRC text
+#+BEGIN_SRC devanagari
   \section*{{\dn \dnnum 3}}
   \begin{enumerate}
   \item[{\dn tasya sTitvA}] Standing thus (in remorse)
@@ -138,7 +138,7 @@ He who is so distantly separated from-,\\
   \end{center}
 #+end_src
 ** 4
-#+begin_src text
+#+begin_src devanagari
   \section*{{\dn \dnnum 4}}
   \begin{enumerate}
   \item[{\dn pratyAsanne}]
@@ -167,8 +167,8 @@ He who is so distantly separated from-,\\
 #+end_src
 * [2020-03-28 Sat]
 ** 5
-#+begin_src text
-  \section*{{\dn \dnnum 5}}
+#+begin_src devanagari
+\section*{{\dn \dnnum 5}}
 
 \begin{enumerate}
 \item[{\dn DuumajyotiH}] 
@@ -193,9 +193,8 @@ He who is so distantly separated from-,\\
 \end{enumerate}
 #+end_src
 ** 6
-#+begin_src text
-  \section*{{\dn \dnnum 6}}
-
+#+begin_src devanagari
+\section*{{\dn \dnnum 6}}
 \begin{enumerate}
 \item[{\dn jAta.m va.m"se}] 
 
@@ -205,7 +204,7 @@ He who is so distantly separated from-,\\
 \end{enumerate}
 #+end_src
 * footer
-#+begin_src text
+#+begin_src devanagari
   \vfill
   \begin{center}
   \texttt{--Exported automatically from org-mode on \today--}
