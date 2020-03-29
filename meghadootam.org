@@ -5,8 +5,10 @@
 #+begin_src text
   \documentclass{article}
   \usepackage{devanagari}
+  \usepackage[left=2in,bottom=1in]{geometry}
   \title{{\dn meGaduuta.m - kAlidAsa}}
   \date{}
+  \author{}
   \begin{document}
   \maketitle
 #+end_src
@@ -43,16 +45,11 @@
 
   \begin{center}
 
-  Cursed for his misdeeds,
-
-  Stripped of strength, 
-
-  a year separated from his lover,
-
-  our Yasksha mopes under the gentle tree shade,
-
-  in Ramagiri, where Sita bathed.
-
+  \textit{Cursed for his misdeeds,\\
+  Stripped of strength, \\
+  a year separated from his lover,\\
+  our Yasksha mopes under the gentle tree shade,\\
+  in Ramagiri, where Sita bathed.}
   \end{center}
 #+END_SRC
 
@@ -92,19 +89,13 @@
   \end{enumerate}
 
 \begin{center}
-There, atop a mountain,
-
-The months of separation from his helpless beloved,
-
-Causing his frame to be so weakened,
-
-That his golden armlet from his forearm slips!
-
-Our Yaksha sees the first rainclouds of Ashadha,
-
-Embracing the moutain top,
-
-As a lonesome elephant, butting against the riverbank.
+\textit{There, atop a mountain,\\
+The months of separation from his helpless beloved,\\
+Causing his frame to be so weakened,\\
+That his golden armlet from his forearm slips!\\
+Our Yaksha sees the first Rainclouds of Ashadha,\\
+Embracing the moutain top,\\
+A lonesome elephant, playfully butting against the riverbank.}
 \end{center}
 #+end_src
 ** 3
@@ -132,9 +123,19 @@ As a lonesome elephant, butting against the riverbank.
   \item[{\dn duurasa.msTe}]  situated at the distance
 
   \item[{\dn jane ki.m punaH}] Of them then what?
-
-
   \end{enumerate}
+
+  \begin{center}
+  \textit{Beholding this sight,\\
+This servant of Kubera,\\
+Is struck by emotion,\\
+Even as he stems his anguish:\\
+This sight of the Raincloud,\\
+induces such emotion even in those at peace,\\
+What then must be his state,\\
+He who is so distantly separated from-,\\
+-Though wishing to embrace the neck of-, his beloved?}
+  \end{center}
 #+end_src
 ** 4
 #+begin_src text
@@ -205,6 +206,10 @@ As a lonesome elephant, butting against the riverbank.
 #+end_src
 * footer
 #+begin_src text
+  \vfill
+  \begin{center}
+  \texttt{--Exported automatically from org-mode on \today--}
+  \end{center}
   \end{document}
 #+end_src
 * local variables                                                  :noexport:
