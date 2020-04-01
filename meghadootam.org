@@ -286,6 +286,45 @@ He who is so distantly separated from-,\\
 \end{enumerate}
 #+end_src
 
+* [2020-04-01 Wed]
+** 9
+#+begin_src devanagari
+  \section*{{\dn \dnnum 9}}
+#+end_src
+** 10
+#+begin_src devanagari
+  \section*{{\dn \dnnum 10}}
+  \begin{enumerate}
+  \item[{\dn manda.m manda.m nudati pavana"svAnukuulo}] Slowly the tailwind moves
+
+  \item[{\dn yaTA.m tvA.m vAma"svAya.m nadati}] On  your left 
+
+  \item[{\dn maDuta.m cAtakaste saganDaH}] The Chataka birds proudly sing behind you
+
+  \item[{\dn garBADAna k.sa.na}] The moment of pleasure/ literally impregnation of birds 
+
+  \item[{\dn paricayAm nuunam AbaDdamAlAH}] (Standing in lines)[Clouds are attributed to inducing the period of gestation in birds]
+
+  \item[{\dn sevi.syante nayanasuBaga.m}] Experiencing this enjoyment 
+
+  \item[{\dn Ke Bavanta.m balAkAH}] in the sky, are the cranes
+  \end{enumerate}
+#+end_src
+** 11
+#+begin_src devanagari
+  \section*{{\dn \dnnum 11}}
+
+  \begin{enumerate}
+    \item[{\dn praBavati kartu.m yacca}] You enable/induce
+    \item[{\dn mahiim ucCiliinDrAm avanDyA.m}] The growth of mushrooms on the fertile [{\dn avanDyA.m}] ground 
+    \item[{\dn tacCrutvA te "srava.nasuBaga.m garjita.m}] Hearing this pleasant sounding thunder
+    \item[{\dn mAnasotkAH}] to Manasa lake [swans will travel]
+    \item[{\dn A kailAsAt}] Until Kailasa mountaints
+    \item[{\dn bisakisalayat CedapATeyavantaH}] The lotus stalks, packed as food for the journey
+    \item[{\dn sa.mpatsyante naBasi}] Till the end of the journay, in the sky-
+    \item[{\dn Bavato rAjaha.msAH sahAyAH}] The swans will accompany.
+  \end{enumerate}
+#+end_src
 * footer
 #+begin_src devanagari
   \vfill
