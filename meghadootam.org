@@ -325,6 +325,52 @@ He who is so distantly separated from-,\\
     \item[{\dn Bavato rAjaha.msAH sahAyAH}] The swans will accompany.
   \end{enumerate}
 #+end_src
+* [2020-04-02 Thu]
+#+begin_src devanagari
+  \section*{{\dn \dnnum 12}}
+  \begin{enumerate}
+  \item[{\dn AprucCasva priyasaKamamu.m}] Take leave of your friend (Ramagiri) [having embraced him]
+
+  \item[{\dn tu"ngamAli"ngya "saila.m} ] Embracing the mountain 
+
+  \item[{\dn vandyaiH pu.msA.m}] [About the mountain]: (Slopes that posees) Those who revere
+
+  \item[{\dn raGupatipadaira"nkita.m meKalAsu}] Lord Rama on the slopes
+
+  \item[{\dn kAle kAle}] Over years and seasons
+  
+  \item[{\dn Bavati Bavato}] The repeated-
+
+  \item[{\dn yasya sa.myogamentya}] -Coming together of-
+  
+  \item[{\dn snehavyakti"s cira virahaja.m}] The affection that you elicit [from the mountain]
+
+  \item[{\dn  mu~ncato bA.spamu.s.nam}] causing him to sheds hot tears
+  \end{enumerate}
+#+end_src
+* [2020-04-02 Thu]
+#+begin_src devanagari
+  \section*{{\dn \dnnum 13}}
+  \begin{enumerate}
+  \item[{\dn mArga.m tAvacC.r.nu}]  About your path, listen-
+
+  \item[{\dn kaTayataha tvat prayA.nAnuruupa.m}] I will tell you about your journey
+
+  \item[{\dn sa.mde"sa.m me tadanu}] My message, then, 
+
+  \item[{\dn jalada "sro.syasi "srotrapeya.m}] That which is worthy of hearing, your ears will drink
+
+  \item[{\dn KinnaH KinnaH}] When you are tired
+
+  \item[{\dn "siKari"su pada.m nyasya}] When you place your foot on the mountain top
+
+  \item[{\dn gantAsi yatra}] On your journey
+
+  \item[{\dn k.sii.naH k.sii.naH parilaGu}] [you will] shrink and become light
+
+  \item[{\dn payaH strotasA.m copaBujya}] You will go drink from streams and nourish yourself
+  \end{enumerate}
+#+end_src
 * footer
 #+begin_src devanagari
   \vfill
