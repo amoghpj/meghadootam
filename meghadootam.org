@@ -286,11 +286,40 @@ He who is so distantly separated from-,\\
 \end{enumerate}
 #+end_src
 
-* [2020-04-01 Wed]
 ** 9
+[2020-04-03 Fri]
+Contributed by Ameya
 #+begin_src devanagari
-  \section*{{\dn \dnnum 9}}
+
+    \section*{{\dn \dnnum 9}}
+    \begin{enumerate}
+    \item[{\dn Ta.m cAva"syA.m}] and you, definitely
+    \item[{\dn divasa ga.nanaA tatpara.m}] deeply engged in counting days
+  \item[{\dn eka patnI.m}] faithful wife /sill in love with the yaksha
+  \item[{\dn avyAppanA.m}] not dead, still staying alive
+  \item[{\dn avihatagatiH}] your course unimpeded
+  \item[{\dn d.rk"shyashi}] will see
+  \item[{\dn Bratu.rjAyA.m}] your brother's wife (Yaksha's wife)
+  \item[{\dn A"sAbanDaH}] held/tied/bound by hope
+  \item[{\dn kusumad.r"sa.m}] flower like
+  \item[{\dn prAya"so}] normally/usually
+  \item[{\dn hA"nganAnA.m}] of women
+  \item[{\dn sadyaH}] at one,now
+  \item[{\dn pAti}] falling?
+  \item[{\dn pra.nayi h.rdaya.m}] heart full of love
+  \item[{\dn viprayoge}] when separated
+  \item[{\dn ru.nadDi}] keeps together/prevents from giving away
+    \end{enumerate}
+    \begin{center}
+      \textit{And you, when you get there ({\dn alakA}) unimpeded, \\
+      you will encounter my faithful wife, pining for\\
+      me, counting days, \\
+      barely kept alive from the burden of separation\\
+      the delicate heart of women separated from their lovers\\
+      is held together by a wisp of hope.}
+    \end{center}
 #+end_src
+* [2020-04-01 Wed]
 ** 10
 #+begin_src devanagari
   \section*{{\dn \dnnum 10}}
@@ -369,6 +398,23 @@ He who is so distantly separated from-,\\
   \item[{\dn k.sii.naH k.sii.naH parilaGu}] [you will] shrink and become light
 
   \item[{\dn payaH strotasA.m copaBujya}] You will go drink from streams and nourish yourself
+  \end{enumerate}
+#+end_src
+* [2020-04-03 Fri]
+** 14
+#+begin_src devanagari
+  \section*{{\dn \dnnum 14}}
+  \begin{enumerate}
+\item[{\dn adreH "s.r"nga.m}] The big cloud
+\item[{\dn harati yavanaH}] 
+\item[{\dn ki.msvidityunmuKiiBiH}] 
+\item[{\dn dru.sTotsAha"scakitacakita.m}] 
+\item[{\dn mugDasidDA"nganABiH}] The innocent wives of Siddhas
+\item[{\dn sTAnAdasmAt}] 
+\item[{\dn sarasaniculAt}] 
+\item[{\dn utpad"namuKaH Ka.m}] 
+\item[{\dn di"nanAgAnA.m paTi}]
+\item[{\dn pariharansTuulahastAvalepAn}] 
   \end{enumerate}
 #+end_src
 * footer
