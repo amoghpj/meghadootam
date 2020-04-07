@@ -420,11 +420,16 @@ Contributed by Ameya
 #+begin_src devanagari
   \section*{{\dn \dnnum 15}}
 \begin{enumerate}
-\item[{\dn aDuurA }] 
-\item[{\dn aDuurA }] 
-\item[{\dn aDuurA }] 
-\item[{\dn aDuurA }] 
-\item[{\dn aDuurA }] 
+\item[{\dn ratnacCAyAvyatikara}] 
+\item[{\dn iva prek.syametatpurastAt}] 
+\item[{\dn valmiikAgrAtpraBavati}] 
+\item[{\dn DanuHKa.n.damAKa.n.dalasya}] 
+\item[{\dn yena "syAma.m}] 
+\item[{\dn vapuratitarA.m}] 
+\item[{\dn kAntimApatsyate te}] 
+\item[{\dn barhe.neva}] 
+\item[{\dn sPutitatucinA}] 
+\item[{\dn gopave.sasya vi.s.noH}] 
 \end{enumerate}
 #+end_src
 * [2020-04-04 Sat]
@@ -465,6 +470,69 @@ Contributed by Ameya
 \item[{\dn prapte mitre}] receive their friends
 \item[{\dn Bavati vimuKaH}] Will not turn his face
 \item[{\dn ki.m punaryastaToccaiH}] What then of such an exalted one [as Amrakuta]
+  \end{enumerate}
+#+end_src
+
+* [2020-04-05 Sun]
+** 18
+#+begin_src devanagari
+  \section*{{\dn \dnnum 17}}
+  \begin{enumerate}
+\item[{\dn CannopAntaH}] The slopes [covered]
+\item[{\dn pari.nataPaladyotiBiH}] By ripe mangoes
+\item[{\dn kAnanAmraiH}] Wild mangoes
+\item[{\dn stvayyAruu.De}] As you move towards
+\item[{\dn "siKaramacalaH}] The peak of the mountain [Amrakuta]
+\item[{\dn snigDave.niisavarne}] Dark oiled hair
+\item[{\dn nuuna.m}] Therefore
+\item[{\dn yAsyati amaramiTuna prek.sa.niiyAmavasTA.m}] This appears beautiful to divine couples
+\item[{\dn maDya "syAmaH}] The center appears black as the nipple
+\item[{\dn stana}] As the breast
+\item[{\dn iva BuvaH}] of the earth
+\item[{\dn "se.savistArapA.n.duH}] the rest appearing white 
+  \end{enumerate}
+#+end_src
+** 19
+#+begin_src devanagari
+  \section*{{\dn \dnnum 19}}
+  \begin{enumerate}
+\item[{\dn sTitvA tasmin}] Sitting there
+\item[{\dn vanacatavaDuu}] The wives of the forest folk
+\item[{\dn Buktaku~nje}] [living in] arbors/gardens 
+\item[{\dn muhuurta.m}] For a short while
+\item[{\dn toyotsarga drutataragatistatpara.m}] Having rained there, you will go fast
+\item[{\dn vartma tiir.naH}] Cross the road
+\item[{\dn revA.m}] The Narmada river
+\item[{\dn drak.syasyupalavi.same}]  You will see the river bank
+\item[{\dn vinDyapAde vi"siir.nA.m}] The Vindyas appear as
+\item[{\dn BakticCedairiva}] [with] Drawing /lines
+\item[{\dn viracitA.m}] [is] Decorated
+\item[{\dn Buutima"nge}] The body of 
+\item[{\dn gajasya}] The elephant's [body]
+  \end{enumerate}
+#+end_src
+* [2020-04-07 Tue] 
+** 20
+#+begin_src devanagari
+  \section*{{\dn \dnnum 20}}
+  \begin{enumerate}
+  \item[{\dn tasyAstiktairvana gajamadaH vAsita.m}] At Narmada, encountering the mada of wilde elephants you will [pour out your water]
+  \item[{\dn vAntav.r.s.tiH}] Pour out
+  \item[{\dn jambuuku~njapratihataraya.m}] [where] the jambu plants impede the river
+  \item[{\dn toyamAdAya gacCeH}] There drink the Narmada water
+  \item[{\dn antaHsAra.m Gana tulayitu.m}] Inner water
+  \item[{\dn nAnilaH "sak.syati tA.m}] [Something to do with wind?]
+  \item[{\dn riktaH sarvo Bavati hi laGuH}] With expelled of obnoxious matter are light
+  \item[{\dn  puur.natA gaurravAya}] Those filled with matter (metaphor for experience/knowledge) are respected
+  \end{enumerate}
+#+end_src
+** 21
+#+begin_src devanagari
+  \section*{{\dn \dnnum 21}}
+  \begin{enumerate}
+  \item[{\dn niipa.m dru.s.tvA haritakapi"sa.m}] 
+  \item[{\dn kesarairarDaruu.De}] 
+  \item[{\dn rAvi'BuutapraTamamukulAH}] 
   \end{enumerate}
 #+end_src
 * footer
