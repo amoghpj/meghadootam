@@ -1,3 +1,4 @@
+
 #+PROPERTY: header-args:devanagari :tangle meghadootam.dn :comments link
 * headers
 
@@ -476,7 +477,7 @@ Contributed by Ameya
 * [2020-04-05 Sun]
 ** 18
 #+begin_src devanagari
-  \section*{{\dn \dnnum 17}}
+  \section*{{\dn \dnnum 18}}
   \begin{enumerate}
 \item[{\dn CannopAntaH}] The slopes [covered]
 \item[{\dn pari.nataPaladyotiBiH}] By ripe mangoes
@@ -535,6 +536,60 @@ Contributed by Ameya
   \item[{\dn rAvi'BuutapraTamamukulAH}] 
   \end{enumerate}
 #+end_src
+* [2020-04-11 Sat]
+** 23
+#+begin_src devanagari
+    \section*{{\dn \dnnum 23}}
+    \begin{enumerate}
+  \item[{\dn utpa"syAmi}]  I see
+  \item[{\dn drutamapi saKe matpriyArTe}] You are traveling fast
+  \item[{\dn yiyAsoH}] [wishing to travel]
+  \item[{\dn kAlak.sepa.m kakuBasuraBaiH}] You will spend time smelling the Kutaja flower 
+  \item[{\dn parvate parvate te}] on each mountaintop
+  \item[{\dn "suklApa"ngaiH}] The peacocks
+  \item[{\dn sajalanayanaiH}] with happy tears in eyes
+\item[{\dn svAgatiigratya kekoH}] vocalize their welcome
+\item[{\dn pratyudyAtaH kaTamapi}] Despite these [?]
+\item[{\dn BavAngantumA"su}] You [I pray] please get ready to leave
+\item[{\dn vyavasyet}]  try and proceed
+    \end{enumerate}
+#+end_src
+
+** 24
+#+begin_src devanagari
+        \section*{{\dn \dnnum 24}}
+
+        \begin{enumerate}
+    \item[{\dn pA.nducCAyopavanav.rtayaH}] The white flowered hedges 
+    \item[{\dn kenakaiH suuciminnaiH}] The flowers with pointed ends
+    \item[{\dn nii.dAramBaiH}] [birds ] building [nests]
+    \item[{\dn g.rhabaliBujAm}] nests of 
+    \item[{\dn aakula grAma caityAH}] disturbed by the domestic birds
+    \item[{\dn tvayyAsanne}] You will arrive
+    \item[{\dn pari.nataPala"syAmajambuuvanAntaH}] weighed down by the black by the Jambu fruits
+    \item[{\dn sa.mpansyante}] \textit{lit.} Will be [where the geese...]
+    \item[{\dn katipayadinasTaayiha.msA}] The geese that have halted for a few days
+    \item[{\dn da"sAr.na}] In the place called {\dn da"sAr.na}
+        \end{enumerate}
+#+end_src
+* [2020-04-12 Sun]
+** 25
+#+begin_src devanagari
+    \section*{{\dn \dnnum 25}}
+    \begin{enumerate}
+  \item[{\dn te"sA.m dik.su}] Reaching there
+  \item[{\dn praTitavidi"sA}] the famous Vidisa
+  \item[{\dn lak.sa.nAm rAjaDAnii.m}] which is the beautiful capital 
+  \item[{\dn gatvA sadyaH}] Go there now and you will-
+  \item[{\dn Palam avikala.m}] -receive all fruits
+  \item[{\dn kAmukatvasya labDA}] of Kama, passion
+  \item[{\dn tiiropAntastaditasuBaga.m}] On the bank [of Vetravati], thundering
+  \item[{\dn pAyasti svAdu}] You will [drink] good tasting water?
+  \item[{\dn yasmAt saBruBa"nga.m muKamiva payo}] Face with bent eyebrows  seen in the water
+  \item[{\dn vetravasyA"svalormi}] Waves of Vetravati
+    \end{enumerate}
+#+end_src
+
 * footer
 #+begin_src devanagari
   \vfill
