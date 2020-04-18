@@ -590,6 +590,38 @@ Contributed by Ameya
     \end{enumerate}
 #+end_src
 
+*  [2020-04-18 Sat]
+** 26
+#+begin_src devanagari
+  \section*{26}
+  \begin{enumerate}
+\item[{\dn niicairAKya.m}] 
+\item[{\dn girimadivasestatra vi"srAmaheto}] 
+\item[{\dn vtatsa.mparkAtpulakinamiva}] 
+\item[{\dn prauDapu.spaiH kadambaiH}] 
+\item[{\dn yAH pa.nyastriiratiparimalodrariBirnAgarA.nA}] 
+\item[{\dn muddAmAni}] 
+\item[{\dn praTayati "silAve"smaBiryauvanAni}] 
+  \end{enumerate}
+#+end_src
+
+** 27
+#+begin_src devanagari
+\section*{27}
+
+\begin{enumerate}
+\item[{\dn vi"srAntaH sanvraja}] Take rest there
+\item[{\dn vananadiitiirajAna ni.si~ncan}] Jasmine flowers along the the Vananadi banks
+\item[{\dn udyAnAnA.m}] Gardens (along the banks)
+\item[{\dn navajala ka.nairyuuTikAjAlakAni}] You bring fresh water
+\item[{\dn ga.ndasveda panayana }] Those (woman) sweat flowing on cheek
+\item[{\dn rujAklAnta}] fatigued
+\item[{\dn kar.notpalanA.m}] Lotus (on) ears
+\item[{\dn CAyAdAnAtk.sa.naparicitaH}] Give  then shade
+\item[{\dn pu.spalAviimuKAnAm}] Flower girls/sellers (?)
+\end{enumerate}
+#+end_src
+
 * footer
 #+begin_src devanagari
   \vfill
