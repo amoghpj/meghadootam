@@ -590,38 +590,72 @@ Contributed by Ameya
     \end{enumerate}
 #+end_src
 
-*  [2020-04-18 Sat]
+* [2020-04-18 Sat]
 ** 26
 #+begin_src devanagari
-  \section*{26}
-  \begin{enumerate}
-\item[{\dn niicairAKya.m}] 
-\item[{\dn girimadivasestatra vi"srAmaheto}] 
-\item[{\dn vtatsa.mparkAtpulakinamiva}] 
-\item[{\dn prauDapu.spaiH kadambaiH}] 
-\item[{\dn yAH pa.nyastriiratiparimalodrariBirnAgarA.nA}] 
-\item[{\dn muddAmAni}] 
-\item[{\dn praTayati "silAve"smaBiryauvanAni}] 
-  \end{enumerate}
+   \section*{{\dn \dnnum 26}}
+    \begin{enumerate}
+  \item[{\dn niicairAKya.m}] 
+  \item[{\dn girimadivasestatra vi"srAmaheto}] 
+  \item[{\dn vtatsa.mparkAtpulakinamiva}] 
+  \item[{\dn prauDapu"spaiH kadambaiH}] 
+  \item[{\dn yAH pa.nyastriiratiparimalodrariBirnAgarA.nA}] 
+  \item[{\dn muddAmAni}] 
+  \item[{\dn praTayati "silAve"smaBiryauvanAni}] 
+    \end{enumerate}
 #+end_src
 
 ** 27
 #+begin_src devanagari
-\section*{27}
-
-\begin{enumerate}
-\item[{\dn vi"srAntaH sanvraja}] Take rest there
-\item[{\dn vananadiitiirajAna ni.si~ncan}] Jasmine flowers along the the Vananadi banks
-\item[{\dn udyAnAnA.m}] Gardens (along the banks)
-\item[{\dn navajala ka.nairyuuTikAjAlakAni}] You bring fresh water
-\item[{\dn ga.ndasveda panayana }] Those (woman) sweat flowing on cheek
-\item[{\dn rujAklAnta}] fatigued
-\item[{\dn kar.notpalanA.m}] Lotus (on) ears
-\item[{\dn CAyAdAnAtk.sa.naparicitaH}] Give  then shade
-\item[{\dn pu.spalAviimuKAnAm}] Flower girls/sellers (?)
-\end{enumerate}
+  \section*{{\dn \dnnum 27}}
+  \begin{enumerate}
+  \item[{\dn vi"srAntaH sanvraja}] Take rest there
+  \item[{\dn vananadiitiirajAna ni.si~ncan}] Jasmine flowers along the the Vananadi banks
+  \item[{\dn udyAnAnA.m}] Gardens (along the banks)
+  \item[{\dn navajala ka.nairyuuTikAjAlakAni}] You bring fresh water
+  \item[{\dn ga.ndasveda panayana }] Those (woman) sweat flowing on cheek
+  \item[{\dn rujAklAnta}] fatigued
+  \item[{\dn kar.notpalanA.m}] Lotus (on) ears
+  \item[{\dn CAyAdAnAtk.sa.naparicitaH}] Give  then shade
+  \item[{\dn pu.spalAviimuKAnAm}] Flower girls/sellers (?)
+  \end{enumerate}
 #+end_src
 
+* [2020-04-19 Sun]
+** 28
+#+begin_src devanagari
+  \section*{{\dn \dnnum 28}}
+  \begin{enumerate}
+  \item[{\dn yadapi BavataH}] Though your (path) 
+  \item[{\dn vakraH panTA}] (Though) the path is not straight/twisted (a detour)
+  \item[{\dn prasTitaH uttrA"sA.m}] As you proceed northwards
+  \item[{\dn sauDa utsa"nga pra.naya vimuKo}] Don't turn away from the terraces of mansion\footnote{{\dn suDA} = limestone, those washed with limestone, i.e., buildings} of 
+  \item[{\dn ma sma BuurujjayayinyAH}]  In the city of Ujjaini
+  \item[{\dn vidyuddAmasPuritacakitauH }] The lightning causing fright 
+  \item[{\dn tatra paurA"nganAnA.m}] The city-dwelling women
+  \item[{\dn locanairva~ncito.asi}] the look (of lightning) in their eyes
+  \item[{\dn lolApA"ngaiJ}] The tremulous/quivering eyelashes
+  \item[{\dn yadi na ramase}] If you have not seen/experienced (= not lived)
+  \end{enumerate}
+#+end_src
+** 29
+#+begin_src devanagari
+  \section*{{\dn \dnnum 29}}
+  \begin{enumerate}
+  \item[{\dn viicik.soBastanitavihaga}] 
+  \item[{\dn sre.nikA~caiiju.nAyAH}] 
+  \item[{\dn sa.msarpantyAH}] 
+  \item[{\dn sKalitasuBaga.m}] 
+  \item[{\dn dar"sitAvartanABeH}] 
+  \item[{\dn nirvinDyAyAH}] 
+  \item[{\dn paTi Bava}] 
+  \item[{\dn rasAByantaraH sa.mnipatya}] 
+  \item[{\dn strii.nAmAdya.m}] 
+  \item[{\dn prauayavacana.m}] 
+  \item[{\dn viBramo}] 
+  \item[{\dn hi priye"su}] 
+  \end{enumerate}
+#+end_src
 * footer
 #+begin_src devanagari
   \vfill
@@ -630,6 +664,9 @@ Contributed by Ameya
   \end{center}
   \end{document}
 #+end_src
+* Notes
+- 17 syllables
+- Vibhag:  4, 6, 7
 * local variables                                                  :noexport:
 
 # Local Variables:
