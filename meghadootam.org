@@ -638,23 +638,37 @@ Contributed by Ameya
   \item[{\dn yadi na ramase}] If you have not seen/experienced (= not lived)
   \end{enumerate}
 #+end_src
+* [2020-05-02 Sat]
 ** 29
 #+begin_src devanagari
   \section*{{\dn \dnnum 29}}
   \begin{enumerate}
-  \item[{\dn viicik.soBastanitavihaga}] 
-  \item[{\dn sre.nikA~caiiju.nAyAH}] 
-  \item[{\dn sa.msarpantyAH}] 
-  \item[{\dn sKalitasuBaga.m}] 
-  \item[{\dn dar"sitAvartanABeH}] 
-  \item[{\dn nirvinDyAyAH}] 
-  \item[{\dn paTi Bava}] 
-  \item[{\dn rasAByantaraH sa.mnipatya}] 
-  \item[{\dn strii.nAmAdya.m}] 
-  \item[{\dn prauayavacana.m}] 
+  \item[{\dn viicik.soBastanita}] The noisy 
+  \item[{\dn vihagasre.nikA~caiiju.nAyAH}] The formations of those that fly in the sky (hamsa), like the blot over
+  \item[{\dn sa.msarpantyAH}] The turbulence/eddies
+  \item[{\dn sKalitasuBaga.m}] stumbling (of the river)
+  \item[{\dn dar"sitAvartanABeH}] Looks like the navel (of the river)
+  \item[{\dn nirvinDyAyAH paTi}] On the road to the Nirvindhya river
+  \item[{\dn Bava rasAByantaraH sa.mnipatya}] Enjoy this
+  \item[{\dn strii.nAmAdya.m}] Women's first gesture
+  \item[{\dn pra.nayavacana.m}]  Loving expressions
   \item[{\dn viBramo}] 
-  \item[{\dn hi priye"su}] 
+  \item[{\dn hi priye"su}] Of love
   \end{enumerate}
+#+end_src
+** 30
+#+begin_src devanagari
+\section*{{\dn \dnnum 30}}
+\begin{enumerate}
+\item[{\dn ve.niiBuutapratanusalilA}] That thin braid-like stream of water
+\item[{\dn nAmatiitasya sinDuH}] as the river Sindhu appears 
+\item[{\dn pA.nducCayA}] having pale face
+\item[{\dn ta.taruhataruBram.siBirjiir.napar.naiH}] Filled with dried leaves
+\item[{\dn sauBAgyam te}] who wishes for your good fortune
+\item[{\dn suBaga virahAvasTayA vya~njayantii}] as is the appearance of one who is suffering from viraha
+\item[{\dn kAr.sya yena}] her emaciation 
+\item[{\dn tyajati viDinA sa tvayaivopapAdyaH}] cause her to leave  (alleviate her pain)
+\end{enumerate}
 #+end_src
 * footer
 #+begin_src devanagari
