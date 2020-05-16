@@ -670,6 +670,37 @@ Contributed by Ameya
 \item[{\dn tyajati viDinA sa tvayaivopapAdyaH}] cause her to leave  (alleviate her pain)
 \end{enumerate}
 #+end_src
+* [2020-05-16 Sat]
+** 31
+#+begin_src devanagari
+  \section*{{\dn \dnnum 31}}
+  \begin{enumerate}
+  \item[{\dn prApyAvantiin}] On reaching Avanti
+  \item[{\dn udayanakaTA}] (Those knowing the) story of Udayana
+  \item[{\dn kovida grAmavrudDAn}] The city of those knowledgeable of this story
+  \item[{\dn puurvoddi.s.tAmupasara}] -That which has been said (about Ujjain)-
+  \item[{\dn puriim "sriivi"sAlAm vi"sAlAm}] In the city of vast riches that is Vishala
+  \item[{\dn svalpiiBuute sucaritaPale}] (The residents) from {\it svarga} with left-over {\it punya}
+  \item[{\dn svargi.nAm gAm gatAnAm}] Who have returned to this earth
+  \item[{\dn "se.saiH pu.nyairh.rtamiva}] Due to the rest of this punya
+  \item[{\dn divaH kAntimatKa.n.damekam}] Causing this city to be shining fragment of {\it svarga}
+  \end{enumerate}
+#+end_src
+** 32
+#+begin_src devanagari
+  \section*{{\dn \dnnum 32}}
+  \begin{enumerate}
+  \item[{\dn diirGiikurvanpa.tu}] 
+  \item[{\dn madakalam kuujitam}] 
+  \item[{\dn sArasAnAm}] 
+  \item[{\dn pratyuu.se.su }] 
+  \item[{\dn sPu.titakamalAmodamaitriika.sAyaH}] 
+  \item[{\dn yatra strii.nAm}] 
+  \item[{\dn harati surataglAnima"ngAnukuulaH}] 
+  \item[{\dn "siprAvAtaH}] 
+  \item[{\dn priyanama iva prArTanAcA.tukAraH}] 
+  \end{enumerate}
+#+end_src
 * footer
 #+begin_src devanagari
   \vfill
