@@ -701,6 +701,75 @@ Contributed by Ameya
   \item[{\dn priyanama iva prArTanAcA.tukAraH}] 
   \end{enumerate}
 #+end_src
+* [2020-06-21 Sun]
+** 33
+#+begin_src devanagari
+    \section*{{\dn \dnnum 33}}
+  \begin{enumerate}
+  \item[{\dn pradyotasya priyaduhitaram}] 
+  \item[{\dn vatsarAjo.atra jahre}] 
+  \item[{\dn haimam tAladrumavanamaBUdatra}] 
+  \item[{\dn tasyaiva rAg~naH}] 
+  \item[{\dn atrogBrAntaH kila nalagiriH}] The elephant nalagiri
+  \item[{\dn stamBamutpA.tya darpAt}] 
+  \item[{\dn ityAgantUnramayati}] 
+  \item[{\dn jano yatra banDUnaBignyAH}] 
+  \end{enumerate}
+#+end_src
+* [2020-07-18 Sat]
+** 34
+#+begin_src devanagari
+\section*{{\dn \dnnum 35}}
+\begin{enumerate}
+\item[{\dn jAlodrIr.naiH }]  
+\item[{\dn upacitavapuH}] 
+\end{enumerate}
+#+end_src
+** 35
+** 40 
+#+begin_src devanagari
+\section*{{\dn \dnnum 40}}
+\begin{enumerate}
+\item[{\dn gacchantiinaa.m rama.navasatim}] Those (women) going to the dwelling of their loved ones
+\item[{\dn yo.sitA.m tatra nakta.m}] Those women, at night
+\item[{\dn rudDaaloke narapatipaTe}] The {\dn raajamaarga}/road obscured by darkness
+\item[{\dn suuciBedyaistamoBiH}] {\dn suuciBedyaiH tamoBiH} (darkness) so thinck that it can be pierced by a needle(?0
+\item[{\dn saudAmanyaa }] From lightning
+\item[{\dn kanakanika.saH}] like a sliver of gold
+\item[{\dn snigDayaa dar"sayorvii.m}] Light up their path
+\item[{\dn toyotsargaH}] Rain down
+\item[{\dn stanitamuKaro maa ca}] but don't thunder 
+\item[{\dn BuurviklavaastaaH}] {\dn BuuH viklavaaH taaH} (as) They (the women) are fearful 
+\end{enumerate}
+#+end_src
+** 41
+#+begin_src devanagari
+\section*{{\dn \dnnum 41}}
+\begin{enumerate}
+\item[{\dn taa.m kasyaa.mcidBavanalaBau}] There, on rooftop(s)
+\item[{\dn suptapaaraavataayaa.m}] where the pigeons sleep
+\item[{\dn niitvaa raatri.m }] spend the night (because...)
+\item[{\dn ciravilasanaatKinnavidyutkalatraH}]  ... your companion Lightning,  is tired from flashing all night. \footnote{Sandhi: {\dn ciravilasanaa Kinna vidyut kalatraH}}
+\item[{\dn d.r.s.te suurye punarapi}] When {\dn suurya} rises again
+\item[{\dn BavaanvaahayedaDva"se.sa.m}] Be on your way again, resume your travels
+\item[{\dn mandaayante na Kalu}] Do not delay, and ...
+\item[{\dn suh.rdaamaByupetaarTak.rtyaaH}] ... travel as one who has taken on the task of your friend
+\end{enumerate}
+#+end_src
+** 42
+#+begin_src devanagari
+\section*{{\dn \dnnum 42}}
+\begin{enumerate}
+\item[{\dn tasminkaale nayanasalila.m}] At that time(at dawn) the tears from the eyes of 
+\item[{\dn yo.sitaa.m Ka.n.ditaanaa.m}] the womon afflicted by jealousy
+\item[{\dn "saanti.m neya.m pra.nayiBirato}] the eyes are wiped (lit. peace is brought) by their lovers
+\item[{\dn vartma Banostyajaa"su}] likewise, leave from the path of the {\dn suurya}
+\item[{\dn praaleyaastra.m kamalavadanaatso.api}] As the dewdrops/tears on the lotus face
+\item[{\dn hartu.m nalinyaH}] removed/wiped from the lotus flower
+\item[{\dn pratyaav.rttastvayi kararuDi}] Leave this palce in haste, without obstucting the sun's hands
+\item[{\dn syaadanalpaaByasuuyaH}] without causing more/increasing anger.
+\end{enumerate}
+#+end_src
 * footer
 #+begin_src devanagari
   \vfill
@@ -712,6 +781,8 @@ Contributed by Ameya
 * Notes
 - 17 syllables
 - Vibhag:  4, 6, 7
+* Tasks                                                            :noexport:
+** TODO 29 vakara pantha
 * local variables                                                  :noexport:
 
 # Local Variables:
