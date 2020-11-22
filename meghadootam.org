@@ -1,6 +1,9 @@
 
 #+PROPERTY: header-args:devanagari :tangle meghadootam.dn :comments link
 * headers
+  :PROPERTIES:
+  :ID:       bdeeaa88-15e6-42e7-8f91-2d9476ade02d
+  :END:
 
 #+begin_src devanagari
   \documentclass{article}
@@ -15,6 +18,9 @@
 
 * [2020-03-26 Thu]
 ** 1
+   :PROPERTIES:
+   :ID:       356aed92-80bb-4bc5-ac42-7cd9d55cc27a
+   :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 1}}
 
@@ -54,6 +60,9 @@
 #+END_SRC
 
 ** 2 
+   :PROPERTIES:
+   :ID:       5cdb766d-7f74-4e82-8f76-57eb10a3412d
+   :END:
 #+BEGIN_SRC devanagari
   \section*{{\dn \dnnum 2}}
   \begin{enumerate}
@@ -99,6 +108,9 @@ A lonesome elephant, playfully butting against the riverbank.}
 \end{center}
 #+end_src
 ** 3
+   :PROPERTIES:
+   :ID:       32862524-3a35-4f46-a92a-cc9a5c35e469
+   :END:
 #+BEGIN_SRC devanagari
   \section*{{\dn \dnnum 3}}
   \begin{enumerate}
@@ -138,6 +150,9 @@ He who is so distantly separated from-,\\
   \end{center}
 #+end_src
 ** 4
+   :PROPERTIES:
+   :ID:       381aa106-b30f-4842-b965-59c90490bedd
+   :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 4}}
   \begin{enumerate}
@@ -166,6 +181,9 @@ He who is so distantly separated from-,\\
 #+end_src
 * [2020-03-29 Sun]
 ** 5
+   :PROPERTIES:
+   :ID:       21a79c49-4b19-445b-a01c-0ec45c328e80
+   :END:
 #+begin_src devanagari
 \section*{{\dn \dnnum 5}}
 
@@ -198,6 +216,9 @@ He who is so distantly separated from-,\\
 \end{enumerate}
 #+end_src
 ** 6
+   :PROPERTIES:
+   :ID:       3d5c5de3-6b11-43e6-91e9-59b4ef6094be
+   :END:
 #+begin_src devanagari
 \section*{{\dn \dnnum 6}}
 \begin{enumerate}
@@ -229,6 +250,9 @@ He who is so distantly separated from-,\\
 #+end_src
 * [2020-03-31 Tue]
 ** 7
+   :PROPERTIES:
+   :ID:       9ded130e-6dd8-431f-a449-a688c6d45276
+   :END:
 #+begin_src devanagari
 \section*{{\dn \dnnum 7}}
 \begin{enumerate}
@@ -256,6 +280,9 @@ He who is so distantly separated from-,\\
 #+end_src
 
 ** 8
+   :PROPERTIES:
+   :ID:       efb84203-ba78-4bee-b0e7-b97934d54ce3
+   :END:
 #+begin_src devanagari
 \section*{{\dn \dnnum 8}}
 
@@ -287,6 +314,9 @@ He who is so distantly separated from-,\\
 #+end_src
 
 ** 9
+   :PROPERTIES:
+   :ID:       b7e2c52c-faf4-4613-953d-64ba4383db42
+   :END:
 [2020-04-03 Fri]
 Contributed by Ameya
 #+begin_src devanagari
@@ -321,6 +351,9 @@ Contributed by Ameya
 #+end_src
 * [2020-04-01 Wed]
 ** 10
+   :PROPERTIES:
+   :ID:       c51b761b-65ec-4eb8-bfb0-aeb3326fb048
+   :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 10}}
   \begin{enumerate}
@@ -340,6 +373,9 @@ Contributed by Ameya
   \end{enumerate}
 #+end_src
 ** 11
+   :PROPERTIES:
+   :ID:       55679fe6-ba41-4b3b-b2be-bc7975f324c5
+   :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 11}}
 
@@ -355,6 +391,9 @@ Contributed by Ameya
   \end{enumerate}
 #+end_src
 * [2020-04-02 Thu]
+  :PROPERTIES:
+  :ID:       06934d63-fa7c-4813-904c-a1e3a685a989
+  :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 12}}
   \begin{enumerate}
@@ -378,6 +417,9 @@ Contributed by Ameya
   \end{enumerate}
 #+end_src
 * [2020-04-02 Thu]
+  :PROPERTIES:
+  :ID:       8ca4b580-db5f-436f-b526-857fd32920ef
+  :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 13}}
   \begin{enumerate}
@@ -402,6 +444,9 @@ Contributed by Ameya
 #+end_src
 * [2020-04-03 Fri]
 ** 14
+   :PROPERTIES:
+   :ID:       751caeb0-069e-4f44-96cb-a90fd18d3126
+   :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 14}}
   \begin{enumerate}
@@ -418,6 +463,9 @@ Contributed by Ameya
   \end{enumerate}
 #+end_src
 ** 15
+   :PROPERTIES:
+   :ID:       13b2aac1-43e9-489e-9dfb-4d9478a0ec47
+   :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 15}}
 \begin{enumerate}
@@ -435,6 +483,9 @@ Contributed by Ameya
 #+end_src
 * [2020-04-04 Sat]
 ** 16
+   :PROPERTIES:
+   :ID:       acce8336-b1c3-4205-8850-af9d778cc6df
+   :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 16}}
   \begin{enumerate}
@@ -455,6 +506,9 @@ Contributed by Ameya
 \textit{{\dn pAmaraH} opposite of {\dn pa.m.dita}, unsophisticated used to describe the women here}
 #+end_src
 ** 17
+   :PROPERTIES:
+   :ID:       ac903c21-3483-48ab-99ed-47ab9a6fa383
+   :END:
 #+begin_src devanagari
 
   \section*{{\dn \dnnum 17}}
@@ -476,6 +530,9 @@ Contributed by Ameya
 
 * [2020-04-05 Sun]
 ** 18
+   :PROPERTIES:
+   :ID:       d3095383-6bf0-4a81-b266-4a21278b74b9
+   :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 18}}
   \begin{enumerate}
@@ -494,6 +551,9 @@ Contributed by Ameya
   \end{enumerate}
 #+end_src
 ** 19
+   :PROPERTIES:
+   :ID:       2695fabc-6d15-4074-87e2-0fea43a6120b
+   :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 19}}
   \begin{enumerate}
@@ -514,6 +574,9 @@ Contributed by Ameya
 #+end_src
 * [2020-04-07 Tue] 
 ** 20
+   :PROPERTIES:
+   :ID:       5cd0bce2-491d-4c90-9d45-7e940e75c0da
+   :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 20}}
   \begin{enumerate}
@@ -528,6 +591,9 @@ Contributed by Ameya
   \end{enumerate}
 #+end_src
 ** 21
+   :PROPERTIES:
+   :ID:       dea50fa1-1ef8-491f-9503-005c2934bdd7
+   :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 21}}
   \begin{enumerate}
@@ -538,6 +604,9 @@ Contributed by Ameya
 #+end_src
 * [2020-04-11 Sat]
 ** 23
+   :PROPERTIES:
+   :ID:       4ce107dc-4ab9-4e4a-836f-713e343b8456
+   :END:
 #+begin_src devanagari
     \section*{{\dn \dnnum 23}}
     \begin{enumerate}
@@ -556,6 +625,9 @@ Contributed by Ameya
 #+end_src
 
 ** 24
+   :PROPERTIES:
+   :ID:       4c21df22-975d-498a-9e60-331524fc946b
+   :END:
 #+begin_src devanagari
         \section*{{\dn \dnnum 24}}
 
@@ -574,6 +646,9 @@ Contributed by Ameya
 #+end_src
 * [2020-04-12 Sun]
 ** 25
+   :PROPERTIES:
+   :ID:       68ee9a28-bb2f-493d-a852-f8cbecabc426
+   :END:
 #+begin_src devanagari
     \section*{{\dn \dnnum 25}}
     \begin{enumerate}
@@ -592,6 +667,9 @@ Contributed by Ameya
 
 * [2020-04-18 Sat]
 ** 26
+   :PROPERTIES:
+   :ID:       610de764-faa1-4337-91cc-f49380008e99
+   :END:
 #+begin_src devanagari
    \section*{{\dn \dnnum 26}}
     \begin{enumerate}
@@ -606,6 +684,9 @@ Contributed by Ameya
 #+end_src
 
 ** 27
+   :PROPERTIES:
+   :ID:       2843b81e-10eb-47ca-a70a-08f1eca72ae0
+   :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 27}}
   \begin{enumerate}
@@ -623,6 +704,9 @@ Contributed by Ameya
 
 * [2020-04-19 Sun]
 ** 28
+   :PROPERTIES:
+   :ID:       05db8a9f-8d7a-4223-979a-4444fdefb93b
+   :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 28}}
   \begin{enumerate}
@@ -640,6 +724,9 @@ Contributed by Ameya
 #+end_src
 * [2020-05-02 Sat]
 ** 29
+   :PROPERTIES:
+   :ID:       a88dbc12-1ae3-48f9-9b89-4907fd559152
+   :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 29}}
   \begin{enumerate}
@@ -657,6 +744,9 @@ Contributed by Ameya
   \end{enumerate}
 #+end_src
 ** 30
+   :PROPERTIES:
+   :ID:       a6f5eb3c-9f72-4b68-a761-40dd96f56ee8
+   :END:
 #+begin_src devanagari
 \section*{{\dn \dnnum 30}}
 \begin{enumerate}
@@ -672,6 +762,9 @@ Contributed by Ameya
 #+end_src
 * [2020-05-16 Sat]
 ** 31
+   :PROPERTIES:
+   :ID:       8c30ec2d-6d64-41cc-b1bc-fb0d05f2b738
+   :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 31}}
   \begin{enumerate}
@@ -687,6 +780,9 @@ Contributed by Ameya
   \end{enumerate}
 #+end_src
 ** 32
+   :PROPERTIES:
+   :ID:       71b61b7d-60f2-4d58-b8ea-dbca14fa0f02
+   :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 32}}
   \begin{enumerate}
@@ -703,6 +799,9 @@ Contributed by Ameya
 #+end_src
 * [2020-06-21 Sun]
 ** 33
+   :PROPERTIES:
+   :ID:       c2045e9a-83ab-4980-9af9-bd37d06c6d52
+   :END:
 #+begin_src devanagari
     \section*{{\dn \dnnum 33}}
   \begin{enumerate}
@@ -718,6 +817,9 @@ Contributed by Ameya
 #+end_src
 * [2020-07-18 Sat]
 ** 34
+   :PROPERTIES:
+   :ID:       1d9f4bcb-e1b9-4fd2-8de0-12d8a60027db
+   :END:
 #+begin_src devanagari
 \section*{{\dn \dnnum 35}}
 \begin{enumerate}
@@ -727,6 +829,9 @@ Contributed by Ameya
 #+end_src
 ** 35
 ** 40 
+   :PROPERTIES:
+   :ID:       54952008-6ffb-4922-aff4-67bb10a1c6a7
+   :END:
 #+begin_src devanagari
 \section*{{\dn \dnnum 40}}
 \begin{enumerate}
@@ -743,6 +848,9 @@ Contributed by Ameya
 \end{enumerate}
 #+end_src
 ** 41
+   :PROPERTIES:
+   :ID:       041a173b-9623-4aa6-8404-47b0d6fabf9f
+   :END:
 #+begin_src devanagari
 \section*{{\dn \dnnum 41}}
 \begin{enumerate}
@@ -757,6 +865,9 @@ Contributed by Ameya
 \end{enumerate}
 #+end_src
 ** 42
+   :PROPERTIES:
+   :ID:       ca09fe51-d651-4171-8737-9c33f4035d90
+   :END:
 #+begin_src devanagari
 \section*{{\dn \dnnum 42}}
 \begin{enumerate}
@@ -770,7 +881,208 @@ Contributed by Ameya
 \item[{\dn syaadanalpaaByasuuyaH}] without causing more/increasing anger.
 \end{enumerate}
 #+end_src
+** 43 
+   :PROPERTIES:
+   :ID:       5d18404b-a4c8-4a6b-9fed-909d74c28bc9
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 43}}
+\begin{enumerate}
+\item[{\dn gamBiiraayaaH payasi}] 
+\item[{\dn sarita"srenasiiva prasanne}] 
+\item[{\dn Caayaantaa.api prak.rtisuBago}] 
+\item[{\dn lapsyate te prave"sam}] 
+\item[{\dn tasmaadasyaaH kumudavi"sadaanyarhasi}] 
+\item[{\dn tva.m na Gairyaan}] 
+\item[{\dn moGiikartu.m}] 
+\item[{\dn ca.tula"saParodvartanaprek.sitaani}] 
+\end{enumerate}
+#+end_src
+** 45
+   :PROPERTIES:
+   :ID:       8e02e1e9-e0b2-48b9-bc3d-c79b013d4a3d
+   :END:
+#+begin_src devanagari
+  % \section*{{\dn \dnnum 45}}
+  % \begin{enumerate}
+
+  % \end{enumerate}
+#+end_src
+** 46
+   :PROPERTIES:
+   :ID:       d5661838-8892-4a78-9314-38163aff7134
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 46}}
+\begin{enumerate}
+\item[{\dn tatra skanda.m}] 
+\item[{\dn niyatavasati.m}] 
+\item[{\dn pu.spameGiik.rtaatmaa}]
+\item[{\dn pu.spaasa}] 
+\end{enumerate}
+#+end_src
+* [2020-08-16 Sun]
+** 47
+   :PROPERTIES:
+   :ID:       afe36e56-32d6-4328-8e96-96f485fb8099
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 47}}
+\begin{enumerate}
+\item[{\dn jyotirleKaavalayi galita.m}] (That peacock possesing...) Circles (== \textit{kannada} {\dn baLii} ) of fire
+\item[{\dn yasya barha.m}] ... such feathers
+\item[{\dn  Bavaanii putraprem.naa }] Due to her (Parvati) love for her son
+\item[{\dn kuvalayadalapraapi kar.ne karoti}] adorns her ear (where lies the blue-lotus) with this feather
+\item[{\dn Dautaapaa"nga.m hara"sa"sirucaa}] From the moon on Shiva's head is 
+\item[{\dn paavakesta.m mayuura.m}] shining the peacock's eyes
+\item[{\dn pa"scaadadrigraha.naguruBirgarjitairnarteyeTaaH}] thereafter your thunderings are amplified on the hills
+\end{enumerate}
+#+end_src
+** 48
+   :PROPERTIES:
+   :ID:       1580f7cd-6926-4b90-b2ee-221f2ca9fe6d
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 48}}
+\begin{enumerate}
+\item[{\dn aaraDyaina.m "sarava.naBava.m}] After having done aradhana to Kartikeya
+\item[{\dn devamulla"niGanaaDvaa}] 
+\item[{\dn sidDadvandvairjalaka.naBayaadvii.niBirmuktamaargaH}] 
+\item[{\dn vyaalambeTaaH}] 
+\item[{\dn suraBitanayaalamBajaa.m maanayi"sya}] 
+\item[{\dn nstrotomuurtyaa Buvi}] 
+\item[{\dn pari.nataa.m rantidevasya kiirti.m}] 
+\end{enumerate}
+#+end_src
+* [2020-08-23 Sun]
+** 49
+   :PROPERTIES:
+   :ID:       780074a6-8ac8-4c43-a31b-9a3960e4662f
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 49}}
+\begin{enumerate}
+\item[{\dn tvayyaadaatu.m }] If you
+\item[{\dn jalamavanate}] desire to drink from the river
+\item[{\dn "saa"nargi.no var.nacaure}] You the robber of Krishna's complexion
+\item[{\dn tasyaaH sinDoH}] That river ({\dn carma.nvati})
+\item[{\dn pruTumapi tanu.m druraBaavaatpravaaham}] Which is actually broad, [appears] narrow from a distance.
+\item[{\dn prek.si.syante gaganagatayo}]  To the observers who travel the skies
+\item[{\dn nuunamaavarjya dru.stireka.m}] fix their gaze on the thread-like river
+\item[{\dn muktaagu.namiva BuvaH}] a necklace of pearls
+\item[{\dn sTuulamaDyendraniila.m}] on which the {\dn meGa} appears as a sapphire gem.
+\end{enumerate}
+#+end_src
+** 50 
+   :PROPERTIES:
+   :ID:       e092dde4-3293-4c50-ba22-598c8430e864
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 50}}
+\begin{enumerate}
+\item[{\dn taamuttiirya vraja}] 
+\item[{\dn paricitaBruulataaviBramaa.naa.m}] 
+\item[{\dn pak.smotk.sepaaduparivilasat}] 
+\item[{\dn k.r.s.na"saarapraBaa.naam}] 
+\item[{\dn kundak.sepaanugamaDukara}] 
+\item[{\dn "sriimu.saamaatmabimbam}] 
+\item[{\dn paatriikurvanda.sapuravaDuunetrakautuuhalaanaam}] 
+\end{enumerate}
+#+end_src
+* [2020-09-27 Sun]
+** 51
+   :PROPERTIES:
+   :ID:       e5c1e8a8-194a-4d57-b27e-3b6b8427fdfe
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 51}}
+\begin{enumerate}
+\item[{\dn brahmaavarta.m janapadamaTacCaayayaa}] (Go to) Brahmaavarta, the country where your shadow falls (on your west)
+\item[{\dn gaahamaanaH}] Go there
+\item[{\dn k.setra.m k.satrapraDanapi"suna.m}] Where the war with kshastriya occurred.
+\item[{\dn kaurava.m tadBajeTaaH}] The place of the Kurus/
+\item[{\dn raajanyaanaa.m "sita"sara"satairyatra}] Where [Arjuna] has rained a sharp arrows on a hundred khsatriya heads
+\item[{\dn gaa.ndiivaDanvaa}] Arjuna 
+\item[{\dn Daaraapaataistvamiva}] [Similarly] rain down
+\item[{\dn kamalaanyaByavar.sanmuKaani}] on the faces of lotuses
+\end{enumerate}
+#+end_src
+** 52
+   :PROPERTIES:
+   :ID:       8dff9b8e-ff12-41f5-ba1b-a0ee0da5c018
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 52}}
+\begin{enumerate}
+\item[{\dn hitvaa.m haalaamaBimatarasaa.m}] Balaraam's liquor where
+\item[{\dn revatiilocanaa"nkaa.m}] Revati's eyes were reflected
+\item[{\dn banDupriityaa samaravimuKo}] [Balarama] who turned his face from war for the fraternal love for Kurus and Pandus.
+\item[{\dn laa"ngalii yaaH si.seve}] with his plough
+\item[{\dn k.rtvaa naasaamaDigamamapaa.m}] 
+\item[{\dn saumya saarasvatiina.m}] The pleasant waters of Sarasvati
+\item[{\dn antaH "sudDastvamapi}] You will also be cleaned on the indise
+\item[{\dn Bavitaa var.namaatre.na k.r.s.naH}] Leaving the exterior along dark-colored
+\end{enumerate}
+#+end_src
+* [2020-10-04 Sun]
+** 53
+   :PROPERTIES:
+   :ID:       151ea878-8482-4e51-8bab-6eb142d52664
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 53}}
+\begin{enumerate}
+\item[{\dn tasmaadgacCeH anukanaKala.m}] Thereafter go to the Kanakhala mountain
+\item[{\dn "sailaraajaavatiir.naa.m}] 
+\item[{\dn jaahnoH kanyaa.m}] Ganga
+\item[{\dn sagaratanayasvargasopaanapa"nktim}] Sons of Sagara
+\item[{\dn gauriivaktraBruku.tirananaa.m}] 
+\item[{\dn yaa vihasyeva PenaiH}] 
+\item[{\dn "sa.mBoH ke"sagraha.namakarot}] 
+\item[{\dn indulagnormihastaa}] 
+\end{enumerate}
+#+end_src
+* [2020-11-21 Sat]
+** 54
+   :PROPERTIES:
+   :ID:       147868f0-5516-4883-95ac-aecc619fd3e1
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 54}}
+\begin{enumerate}
+\item[{\dn tasyAH paatu.m suragaja iva }] If you were to drink there, it appears as though one of the 
+\item[{\dn vyomni pa"scaarDalambii}] {\dn dikgaja}s bending/stretching downward
+\item[{\dn tva.m cedacCasPa.tikavi"sada.m}]  Appears as clear as jewels
+\item[{\dn tarkayestiryagamBaH}] (If considered)
+\item[{\dn sa.msarpantya sapadi BavataH strotasi}] The serpentine flowing  river 
+\item[{\dn cCaayayaa.asau}] on which is cast your shadow [as beautiful]
+\item[{\dn syaadasTaanopagatayamunaasa.mgameva}] appears as the Ganga in a sangama in prayag
+\item[{\dn aBiraamaa}] ... appears beautiful
+\end{enumerate}
+#+end_src
+
+* [2020-11-22 Sun]
+** 55
+   :PROPERTIES:
+   :ID:       60e414c5-c28c-45bd-adbd-292d9c7aece0
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 55}}
+\begin{enumerate}
+\item[{\dn aasiinaanaa.m suraBita"sila.m}] Those seated [deer] cause the mountain to be scneted
+\item[{\dn naaBiganDairm.rgaa.naa.m}] The odors of the navel of the deer
+\item[{\dn tasyaa eva praBavamacala.m}] [When you] arrive at the Mountains...
+\item[{\dn praapya gaura.m tu.saaraiH}] [arriving at] the white snows
+\item[{\dn vak.syasyaDva"sramavinayane}] When you rest there 
+\item[{\dn "sru"nge ni.sa.n.naH}] [sit on] the peak
+\item[{\dn "soBaa.m "suBraa.mtrinayanav.r.sotKaatapa"nkopameyaam}] You will resemble the white dust raised by Nandi of Siva.
+\end{enumerate}
+#+end_src
+
 * footer
+  :PROPERTIES:
+  :ID:       e9dc86e4-a234-452f-a773-d32b0b385969
+  :END:
 #+begin_src devanagari
   \vfill
   \begin{center}
