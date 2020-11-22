@@ -1071,11 +1071,12 @@ Contributed by Ameya
 \begin{enumerate}
 \item[{\dn aasiinaanaa.m suraBita"sila.m}] Those seated [deer] cause the mountain to be scneted
 \item[{\dn naaBiganDairm.rgaa.naa.m}] The odors of the navel of the deer
-\item[{\dn tasyaa eva praBavamacala.m}] [When you] arrive at the Mountains...
+\item[{\dn tasyaa eva praBavamacala.m}] [When you] arrive at the Mountains, the source of her, Ganga, ...
 \item[{\dn praapya gaura.m tu.saaraiH}] [arriving at] the white snows
-\item[{\dn vak.syasyaDva"sramavinayane}] When you rest there 
+\item[{\dn vak.syasya aDva"sramavinayane}] EWhen exhausted you sit on the peak
 \item[{\dn "sru"nge ni.sa.n.naH}] [sit on] the peak
-\item[{\dn "soBaa.m "suBraa.mtrinayanav.r.sotKaatapa"nkopameyaam}] You will resemble the white dust raised by Nandi of Siva.
+\item[{\dn "soBaa.m "suBraa.mtrinayanav.r.sotKaatapa"nka}] [You will resemble] the white dust raised by  Nandi of Siva.
+\item[{\dn upameyaam}] You will resemeble [lit. this is the simile]
 \end{enumerate}
 #+end_src
 
