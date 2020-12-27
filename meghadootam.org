@@ -1178,6 +1178,47 @@ skt:candramauli
 #+end_src
 * [2020-12-26 Sat]
 ** 61
+   :PROPERTIES:
+   :ID:       22620b5d-438b-45a8-904b-ffd9cd095447
+   :END:
+#+begin_src devanagari
+\section*{\dn \dnnum 61}
+\begin{enumerate}
+\item[{\dn gatvaa corDva.m}] Having gone there
+\item[{\dn da"samuKaBujaH}] Ravana's
+\item[{\dn ucCavaasitaprasTasa.mDeH}]  having shaken the mountains
+\item[{\dn kailaasasya}] [which is used by] Those of Kailasa
+\item[{\dn trida"savanita}] the women of the Gods
+\item[{\dn darpa.nasyaatiTiH syaaH}] as a mirror, go there
+\item[{\dn "sr.mgocCraayaiH}] The peaks appear as 
+\item[{\dn kumudavi"sadairyo}] white lotuses
+\item[{\dn vitatya sTitaH Ka.m}] spread all over the sky
+\item[{\dn raa"siiBuutaH}] like a heap, or accumulated
+\item[{\dn pratidinamiva}] [{\dn pratidi"sa.m?}] [like the ]  day-by-day
+\item[{\dn tryambakasyaa.t.tahasaH}] [accumulated] loud laughter of Siva
+\end{enumerate}
+#+end_src
+** 62
+   :PROPERTIES:
+   :ID:       90aebf48-7b40-4a2c-8ce8-a2af35c45f4d
+   :END:
+#+begin_src devanagari
+\section*{\dn \dnnum 62}
+\begin{enumerate}
+\item[{\dn utpa"syaami}] [Yaksha: I expect that]
+\item[{\dn tvayi ta.tagate}] [when you sit at] the feet of [kailasa], 
+\item[{\dn snigDaminnaa~njanaaBe}] you appear black as the k\={a}jal
+\item[{\dn sadyaH k.rtta}] when you sit at
+\item[{\dn dviradada"sana}] the two tusked (elephant)'s teeth, i.e. ivory
+\item[{\dn cCedagaurasya}] freshly cut
+\item[{\dn tasya "soBaamadreH}] the beauty of [ivory]
+\item[{\dn stimitanayana}] [observed with] steadfast eyes
+\item[{\dn prek.sa.niiyaa.m}] fit to be observed with
+\item[{\dn Bavitrii.m a.msanyaste sati}] [Yaksha: you will appear as ]
+\item[{\dn halaB.rto}] Like the Plough bearer's (balar\={a}ma, who is fair skinned) 
+\item[{\dn mecake vaasasiiva}] black clothes worn by
+\end{enumerate}
+#+end_src
 * footer
   :PROPERTIES:
   :ID:       e9dc86e4-a234-452f-a773-d32b0b385969
