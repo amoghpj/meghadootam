@@ -393,6 +393,10 @@ Contributed by Ameya
   :PROPERTIES:
   :ID:       06934d63-fa7c-4813-904c-a1e3a685a989
   :END:
+** 12
+   :PROPERTIES:
+   :ID:       5ccbb10b-45e9-4276-8b55-5ac0b0947871
+   :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 12}}
   \begin{enumerate}
@@ -419,6 +423,10 @@ Contributed by Ameya
   :PROPERTIES:
   :ID:       8ca4b580-db5f-436f-b526-857fd32920ef
   :END:
+** 13
+   :PROPERTIES:
+   :ID:       6369480b-dc1f-4b81-b2bc-a592303e9383
+   :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 13}}
   \begin{enumerate}
@@ -596,11 +604,36 @@ Contributed by Ameya
 #+begin_src devanagari
   \section*{{\dn \dnnum 21}}
   \begin{enumerate}
-  \item[{\dn niipa.m dru.s.tvA haritakapi"sa.m}] 
-  \item[{\dn kesarairarDaruu.De}] 
-  \item[{\dn rAvi'BuutapraTamamukulAH}] 
+  \item[{\dn niipa.m dru.s.tvA harita kapi"sa.m}] Seeing the flowers of the  Kadamba tree green and brown (kapisam)
+  \item[{\dn kesarairarDaruu.DaiH}] filaments
+  \item[{\dn AvirBuutapraTamamukulaaH}] the first buds of ...
+  \item[{\dn kandalii"scaanukacCam}]  the Kandali flowers
+  \item[{\dn jagDaa.ara.ne.svaDikasuraBi.m}] Attratcted to eating the buds [?]
+  \item[{\dn ganDamaaGraaya corvyaaH}] or the odors of the forest floor
+  \item[{\dn saara"ngaaste}] Bees/deer/elephants? \footnote{This is a poetic device where Kalidasa refers to all three as showing the way by doing three things, attracted to flowers, smell of leaves, and the odor of the forest.}
+  \item[{\dn jalalavamucaH}] sprinkle with water
+\item[{\dn suucayi"syanti maarga.m}]  and show you the way
   \end{enumerate}
 #+end_src
+** 22
+   :PROPERTIES:
+   :ID:       13a4e7b2-0ca8-45eb-a5e2-94e0525ccb65
+   :END:
+#+begin_src devanagari
+  \section*{{\dn \dnnum 22}}
+  \begin{enumerate}
+  \item[{\dn amBobindugraha.navaturaan}] [seeing the catakas] Catching the rain drops in their mouths
+  \item[{\dn caatakaanviik.samaa.naaH}] the Catakas 
+  \item[{\dn "sre.niiBuutaaH pariga.nanayaa}] and the respectful lines, so neat as can be counted?
+  \item[{\dn nirdi"santo}] [seeing?]  
+  \item[{\dn balaakaaH}] formed by the cranes
+  \item[{\dn tvaamaasaadya stanitasamaye}]  when you thunder
+  \item[{\dn maanayi.syanti sidDaaH}] the Siddhas will respect you highly while seeing
+\item[{\dn sotkampaani}] the enthusiastic
+\item[{\dn priyasahacariisa.mBramaali"ngitaani}] embraces of their consorts
+  \end{enumerate}
+#+end_src
+
 * [2020-04-11 Sat]
 ** 23
    :PROPERTIES:
@@ -802,7 +835,7 @@ Contributed by Ameya
    :ID:       c2045e9a-83ab-4980-9af9-bd37d06c6d52
    :END:
 #+begin_src devanagari
-    \section*{{\dn \dnnum 33}}
+    \section*{{\dn \dnnum 33 (34?)}}
   \begin{enumerate}
   \item[{\dn pradyotasya priyaduhitaram}] 
   \item[{\dn vatsarAjo.atra jahre}] 
@@ -812,7 +845,7 @@ Contributed by Ameya
   \item[{\dn stamBamutpA.tya darpAt}] 
   \item[{\dn ityAgantUnramayati}] 
   \item[{\dn jano yatra banDUnaBignyAH}] 
-  \end{enumerate}
+  \end{enumerate} 
 #+end_src
 * [2020-07-18 Sat]
 ** 34
@@ -820,13 +853,109 @@ Contributed by Ameya
    :ID:       1d9f4bcb-e1b9-4fd2-8de0-12d8a60027db
    :END:
 #+begin_src devanagari
+\section*{{\dn \dnnum 34}}
+See previous.
+#+end_src
+
+** 35
+   :PROPERTIES:
+   :ID:       6478357a-4e35-4e6f-abde-2564a385e207
+   :END:
+#+begin_src devanagari
 \section*{{\dn \dnnum 35}}
 \begin{enumerate}
-\item[{\dn jAlodrIr.naiH }]  
-\item[{\dn upacitavapuH}] 
+\item[{\dn jaalodriir.naiH }]  [I think this refers to the lattice work of the mansions]
+\item[{\dn upacitavapuH}] Your great size
+\item[{\dn ke"sasamskaaraDuupaiH}] the incense smoke applied to the hair
+\item[{\dn banDupriityaa}] the brotherly love [exhibited by...]
+\item[{\dn Bavana"siKiBiH}] the household peacocks
+\item[{\dn dattan.rtyopahaaraH}] the presents in this form of dance [welcome you]
+\item[{\dn harmye"svasyaaH}] in these mansions
+\item[{\dn kusumasuraBi"svaDvaKeda.m}] with the sweet smelling flowers
+\item[{\dn nayeTaa}] \textit{Malli: } {\dn upanaya}?
+\item[{\dn lak"smii.mpa"sya.m}] and red lac? [From Kale]
+\item[{\dn lalitavanitaa}] the young women 
+\item[{\dn paadataagaa"nkite"su}] applying to their feet
 \end{enumerate}
 #+end_src
-** 35
+** 36
+   :PROPERTIES:
+   :ID:       1d9f4bcb-e1b9-4fd2-8de0-12d8a60027db
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 36}}
+\begin{enumerate}
+\item[{\dn BartuH}] 
+\item[{\dn ka.n.TacCaviriti ga.naiH }] Those Ganas the color of their master's neck
+\item[{\dn saadara.m viik.syamaa.naH}] gaze with respect
+\item[{\dn pu.nya.m}] ?
+\item[{\dn yaayaastriBuvanagurorDaama}] Visit the abode of the Lord of the three worlds,
+\item[{\dn ca.n.dii"svarasya}]  Candi's husband
+\item[{\dn Duutodyaana.m}] the gardens
+\item[{\dn kuvalayarajo}] filled with lotus pollen
+\item[{\dn ganDiBirganDavatyaaH}] the scents from the Gandhavati
+\item[{\dn toyakrii.daaniranayuvati}] the women engaged in water sports
+\item[{\dn snaananiktairmarubDiH}] while bathing
+\end{enumerate}
+#+end_src
+
+** 37
+   :PROPERTIES:
+   :ID:       1d9f4bcb-e1b9-4fd2-8de0-12d8a60027db
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 37}}
+\begin{enumerate}
+\item[{\dn apyanyasmi~njalaDara}] when you arrive at 
+\item[{\dn mahaakaalamaasaadya kaale}] Mahakala
+\item[{\dn sTaatavya.m te}] stay there
+\item[{\dn nayanavi.saya.m}] even if out of sight
+\item[{\dn yaavadatyeti BaanuH}] has gone down, the sun
+\item[{\dn kurvansa.mDyaabalipa.tahataa.m}] Do the evening bali puja
+\item[{\dn "suulinaH "slaaDaniiyaa.m}] for Siva'spraise
+\item[{\dn amandraa.naa.m}] with grave [thundering]
+\item[{\dn Palamavikala.m}] [which will] grant your wishes
+\item[{\dn lapsyate garjatanaa.m}] your thundering will achieve this.
+\end{enumerate}
+#+end_src
+** 38
+   :PROPERTIES:
+   :ID:       1d9f4bcb-e1b9-4fd2-8de0-12d8a60027db
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 38}}
+\begin{enumerate}
+\item[{\dn paadanyaasaiH}] Legs amid a pose
+\item[{\dn kva.nitara"sanaaH tatra}] there, the girls
+\item[{\dn liilaavaDuutaiH}] dancing
+\item[{\dn ratnaccaya}] [hands lined] with gems and 
+\item[{\dn KacitavaliBi"scaamaraiH}] [hands lined] with camaris
+\item[{\dn klaantahastaaH}] adorned hands
+\item[{\dn ve"syaastvatto}] ?
+\item[{\dn naKApadasuKaanpraapya}] on receiving  on their adorned fingers
+\item[{\dn var"saagrbinduun}] your rain drops
+\item[{\dn aamok.syante tvaci}] having been relieved by ?
+\item[{\dn maDukara"sre.nidiirGaanka.taak.saan}] their glances at you resembles a row of bees
+\end{enumerate}
+#+end_src
+** 39
+   :PROPERTIES:
+   :ID:       1d9f4bcb-e1b9-4fd2-8de0-12d8a60027db
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 39}}
+\begin{enumerate}
+\item[{\dn pa"scaduccairBujataruvana.m}] Thereafter, you, sitting on the forest resting on his [Siva's?] arms
+\item[{\dn ma.ndalenaaBiliinaH}] appearing [red]
+\item[{\dn saaDya.m tejaH}] due the twilight sun
+\item[{\dn pratinavajapaapu.sparakta.m}] as red as the japa flowers
+\item[{\dn daDaanaH}] 
+\item[{\dn n.rttaaramBe hara}] Siva's dance having started
+\item[{\dn pa"supateraardranaagaajinecCaa.m}] the Pasupati's desire for wet elephant hide (gaja carma)
+\item[{\dn "saantodvegastimitanayana.m}] with calm eyes, fears having been removed
+\item[{\dn d.r.s.taBaktirBvaanyaa}] Bhavani looks at you
+\end{enumerate}
+#+end_src
 ** 40 
    :PROPERTIES:
    :ID:       54952008-6ffb-4922-aff4-67bb10a1c6a7
@@ -897,15 +1026,45 @@ Contributed by Ameya
 \item[{\dn ca.tula"saParodvartanaprek.sitaani}] 
 \end{enumerate}
 #+end_src
+** 44
+   :PROPERTIES:
+   :ID:       8e02e1e9-e0b2-48b9-bc3d-c79b013d4a3d
+   :END:
+#+begin_src devanagari
+  \section*{{\dn \dnnum 44}\footnote{not discussed}} 
+\begin{enumerate}
+\item[{\dn tasyaaH}] 
+\item[{\dn ki.mcitkaraD.rtamiva}] 
+\item[{\dn praaptavaaniira"saaKa.m}] 
+\item[{\dn h.rtvaa niila.m}] 
+\item[{\dn salilavasana.m}] 
+\item[{\dn muktaroDonitamba.m}] 
+\item[{\dn prasTaana.m te}] 
+\item[{\dn kaTamapi saKe}] 
+\item[{\dn lambamaanasya Baavi}] 
+\item[{\dn j~naataasvaado}] 
+\item[{\dn viv.rtajaGanaa.m}] 
+\item[{\dn ko vihaatu.m samarTaH}] How is it possible to leave
+\end{enumerate}
+#+end_src
+
 ** 45
    :PROPERTIES:
    :ID:       8e02e1e9-e0b2-48b9-bc3d-c79b013d4a3d
    :END:
 #+begin_src devanagari
-  % \section*{{\dn \dnnum 45}}
-  % \begin{enumerate}
-
-  % \end{enumerate}
+  \section*{{\dn \dnnum 45}}
+\begin{enumerate}
+\item[{\dn tvanni.syandocCvasitavasuDaa}] The ground swollen by your touch
+\item[{\dn ganDasa.mparkaramyaaH}] you raise the odors of the earth
+\item[{\dn strotoranDraDvanitasuBaga.m}] the sweet sounds of the elephants
+\item[{\dn dantiBiH piiyamaanaH}] drinking water
+\item[{\dn niicairvaasyatyupajigami.sordevaapuurva}] 
+\item[{\dn giri.m te}] as you head towards Devagiri
+\item[{\dn "siito vaayuH}] the cool breeze
+\item[{\dn pari.namayitaa}] ?
+\item[{\dn kaananogumbaraa.naam}] the wild figs
+\end{enumerate}
 #+end_src
 ** 46
    :PROPERTIES:
@@ -917,7 +1076,12 @@ Contributed by Ameya
 \item[{\dn tatra skanda.m}] 
 \item[{\dn niyatavasati.m}] 
 \item[{\dn pu.spameGiik.rtaatmaa}]
-\item[{\dn pu.spaasa}] 
+\item[{\dn pu.spaasaraiH snapayatu}] 
+\item[{\dn Bavaanvyomaga"ngajalaardraiH}] 
+\item[{\dn rak.saahetornava"sa"siB.rtaa}] 
+\item[{\dn vaasaviinaa.m camuunaam}] 
+\item[{\dn atyaaditya.m hutavahamuKe}] 
+\item[{\dn saB.rta.m tadDi tejaH}] 
 \end{enumerate}
 #+end_src
 * [2020-08-16 Sun]
@@ -1034,7 +1198,7 @@ Contributed by Ameya
 \item[{\dn tasmaadgacCeH anukanaKala.m}] Thereafter go to the Kanakhala mountain
 \item[{\dn "sailaraajaavatiir.naa.m}] 
 \item[{\dn jaahnoH kanyaa.m}] Ganga
-\item[{\dn sagaratanayasvargasopaanapa"nktim}] Sons of Sagara
+\item[{\dn sagaratanayasvargasopaanapa"nktim}] Sons of Sagara on the steps
 \item[{\dn gauriivaktraBruku.tirananaa.m}] 
 \item[{\dn yaa vihasyeva PenaiH}] 
 \item[{\dn "sa.mBoH ke"sagraha.namakarot}] 
@@ -1256,6 +1420,24 @@ skt:candramauli
 \item[{\dn krii.daalolaaH}] when they are engaged in water sports...
 \item[{\dn "srava.naparu.saiH}] [Thunder so as to] hurt their ears
 \item[{\dn garjitairBaayayestaaH}] You must/will have to thunder loudly
+\end{enumerate}
+#+end_src
+** 65
+   :PROPERTIES:
+   :ID:       a8644393-d3fd-4f77-8b7e-b55504c28717
+   :END:
+#+begin_src devanagari
+\section*{\dn \dnnum 65}
+\begin{enumerate}
+\item[{\dn hemaamBojaprasavi salila.m}] 
+\item[{\dn maansastaadadaanaH}] 
+\item[{\dn krvanjaama.m}] 
+\item[{\dn k.sa.namuKapa.tapriitimairaavatasya}] 
+\item[{\dn Dunvankalpadrumadiasalaraanya.m"sukaaniiva}] 
+\item[{\dn vaataiH}] 
+\item[{\dn naanaace.stairjalada}] 
+\item[{\dn lalitairnirvi.sesta.m}] 
+\item[{\dn nagendra.m}] 
 \end{enumerate}
 #+end_src
 * footer
