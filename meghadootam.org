@@ -450,7 +450,7 @@ Contributed by Ameya
   \end{enumerate}
 #+end_src
 * [2020-04-03 Fri]
-** 14
+** TODO 14
    :PROPERTIES:
    :ID:       751caeb0-069e-4f44-96cb-a90fd18d3126
    :END:
@@ -469,7 +469,7 @@ Contributed by Ameya
 \item[{\dn pariharansTuulahastAvalepAn}] 
   \end{enumerate}
 #+end_src
-** 15
+** TODO 15
    :PROPERTIES:
    :ID:       13b2aac1-43e9-489e-9dfb-4d9478a0ec47
    :END:
@@ -698,7 +698,7 @@ Contributed by Ameya
 #+end_src
 
 * [2020-04-18 Sat]
-** 26
+** TODO 26
    :PROPERTIES:
    :ID:       610de764-faa1-4337-91cc-f49380008e99
    :END:
@@ -709,7 +709,8 @@ Contributed by Ameya
   \item[{\dn girimadivasestatra vi"srAmaheto}] 
   \item[{\dn vtatsa.mparkAtpulakinamiva}] 
   \item[{\dn prauDapu"spaiH kadambaiH}] 
-  \item[{\dn yAH pa.nyastriiratiparimalodrariBirnAgarA.nA}] 
+  \item[{\dn yAH pa.nyastriirati}] 
+  \item[{\dn parimalodrariBirnAgarA.nA}] 
   \item[{\dn muddAmAni}] 
   \item[{\dn praTayati "silAve"smaBiryauvanAni}] 
     \end{enumerate}
@@ -811,7 +812,7 @@ Contributed by Ameya
   \item[{\dn divaH kAntimatKa.n.damekam}] Causing this city to be shining fragment of {\it svarga}
   \end{enumerate}
 #+end_src
-** 32
+** TODO 32
    :PROPERTIES:
    :ID:       71b61b7d-60f2-4d58-b8ea-dbca14fa0f02
    :END:
@@ -830,12 +831,31 @@ Contributed by Ameya
   \end{enumerate}
 #+end_src
 * [2020-06-21 Sun]
-** 33
+** TODO 33
+   :PROPERTIES:
+   :ID:       18136329-861c-4938-bbfd-99ae5e8215ba
+   :END:
+#+begin_src devanagari
+    \section*{{\dn \dnnum 33}}
+  \begin{enumerate}
+    \item[{\dn haaraa.mstaaraa.m}]
+      \item[{\dn staralagu.tikaanko.ti"saH}] 
+\item[{\dn "sa.nKa"suktiiH}] 
+\item[{\dn "sa.spa"syaamaan}] 
+\item[{\dn maarakatama.niin}] 
+\item[{\dn unmayuuKaprarohaan}] 
+\item[{\dn d.r.s.tvaa yasyaa.m}] 
+\item[{\dn vipa.niracitaanvidruma.naa.m ca Ba"ngaam}]
+\item[{\dn sa.mlak"syante}] 
+\item[{\dn salilaniDayastoyamaatraaava"se.saaH}] 
+  \end{enumerate} 
+#+end_src   
+** TODO 34
    :PROPERTIES:
    :ID:       c2045e9a-83ab-4980-9af9-bd37d06c6d52
    :END:
 #+begin_src devanagari
-    \section*{{\dn \dnnum 33 (34?)}}
+    \section*{{\dn \dnnum 34}}
   \begin{enumerate}
   \item[{\dn pradyotasya priyaduhitaram}] 
   \item[{\dn vatsarAjo.atra jahre}] 
@@ -848,15 +868,6 @@ Contributed by Ameya
   \end{enumerate} 
 #+end_src
 * [2020-07-18 Sat]
-** 34
-   :PROPERTIES:
-   :ID:       1d9f4bcb-e1b9-4fd2-8de0-12d8a60027db
-   :END:
-#+begin_src devanagari
-\section*{{\dn \dnnum 34}}
-See previous.
-#+end_src
-
 ** 35
    :PROPERTIES:
    :ID:       6478357a-4e35-4e6f-abde-2564a385e207
@@ -880,7 +891,7 @@ See previous.
 #+end_src
 ** 36
    :PROPERTIES:
-   :ID:       1d9f4bcb-e1b9-4fd2-8de0-12d8a60027db
+   :ID:       68b0925a-175b-44c9-a522-9beb81df08ed
    :END:
 #+begin_src devanagari
 \section*{{\dn \dnnum 36}}
@@ -901,7 +912,7 @@ See previous.
 
 ** 37
    :PROPERTIES:
-   :ID:       1d9f4bcb-e1b9-4fd2-8de0-12d8a60027db
+   :ID:       a5ed8a36-82dc-4d9c-87e1-971a546667f5
    :END:
 #+begin_src devanagari
 \section*{{\dn \dnnum 37}}
@@ -920,7 +931,7 @@ See previous.
 #+end_src
 ** 38
    :PROPERTIES:
-   :ID:       1d9f4bcb-e1b9-4fd2-8de0-12d8a60027db
+   :ID:       ba42f434-27d6-464a-876d-4578a0962b6b
    :END:
 #+begin_src devanagari
 \section*{{\dn \dnnum 38}}
@@ -940,7 +951,7 @@ See previous.
 #+end_src
 ** 39
    :PROPERTIES:
-   :ID:       1d9f4bcb-e1b9-4fd2-8de0-12d8a60027db
+   :ID:       774e56d7-2875-4f2c-8b10-eeba3fb05ca7
    :END:
 #+begin_src devanagari
 \section*{{\dn \dnnum 39}}
@@ -1009,7 +1020,7 @@ See previous.
 \item[{\dn syaadanalpaaByasuuyaH}] without causing more/increasing anger.
 \end{enumerate}
 #+end_src
-** 43 
+** TODO 43 
    :PROPERTIES:
    :ID:       5d18404b-a4c8-4a6b-9fed-909d74c28bc9
    :END:
@@ -1026,7 +1037,7 @@ See previous.
 \item[{\dn ca.tula"saParodvartanaprek.sitaani}] 
 \end{enumerate}
 #+end_src
-** 44
+** TODO 44
    :PROPERTIES:
    :ID:       8e02e1e9-e0b2-48b9-bc3d-c79b013d4a3d
    :END:
@@ -1050,7 +1061,8 @@ See previous.
 
 ** 45
    :PROPERTIES:
-   :ID:       8e02e1e9-e0b2-48b9-bc3d-c79b013d4a3d
+   :ID:       fe3ae9d1-7873-40fe-a9ba-ad639b700ff8
+   :CREATED:  <2021-01-07 Thu 19:01>
    :END:
 #+begin_src devanagari
   \section*{{\dn \dnnum 45}}
@@ -1066,7 +1078,7 @@ See previous.
 \item[{\dn kaananogumbaraa.naam}] the wild figs
 \end{enumerate}
 #+end_src
-** 46
+** TODO 46
    :PROPERTIES:
    :ID:       d5661838-8892-4a78-9314-38163aff7134
    :END:
@@ -1101,7 +1113,7 @@ See previous.
 \item[{\dn pa"scaadadrigraha.naguruBirgarjitairnarteyeTaaH}] thereafter your thunderings are amplified on the hills
 \end{enumerate}
 #+end_src
-** 48
+** TODO 48
    :PROPERTIES:
    :ID:       1580f7cd-6926-4b90-b2ee-221f2ca9fe6d
    :END:
@@ -1136,7 +1148,7 @@ See previous.
 \item[{\dn sTuulamaDyendraniila.m}] on which the {\dn meGa} appears as a sapphire gem.
 \end{enumerate}
 #+end_src
-** 50 
+** TODO 50 
    :PROPERTIES:
    :ID:       e092dde4-3293-4c50-ba22-598c8430e864
    :END:
@@ -1465,6 +1477,56 @@ skt:candramauli
 \item[{\dn aBrav.rnda.m}] (Malli: {\dn meGakada.mbaka.m})The group (multitude) of clouds [appears as]
 \end{enumerate}
 #+end_src
+* [2021-02-28 Sun]
+  :PROPERTIES:
+  :ID:       f7b8d96c-10b1-45c9-9e9a-c8f0acf62954
+  :END:
+#+begin_src devanagari
+\pagebreak 
+
+\section*{{\dn uttarameGaH}}
+#+end_src
+** 67
+   :PROPERTIES:
+   :ID:       012c1eae-e377-4f6c-88e7-8cc124857f3a
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 67} \footnote{Alternating comparison between the Megha and the people of alaka}}
+\begin{enumerate}
+\item[{\dn vidyutvanta.m}]  You the one bearing lightning ({\dn meGaH})
+\item[{\dn lalinavanitaaH}] The women filled with charm
+\item[{\dn sendracaapa.m}] You with the colorful rainbow
+\item[{\dn sacitraaH}] They have various pictures(?)
+\item[{\dn sangiitaaya prahatamurajaaH}] Their drums ({\dn m.rdanga}) filling the halls with music
+\item[{\dn snigDagamBriGo"sa.m}] Your deep rumblings
+\item[{\dn antastoya.m}] Your inner water  (is rivaled by)
+\item[{\dn ma.nimayaBuvaH}] Gem studded floors
+\item[{\dn tu"ngam aBra.mlihaagraaH}] The towering domes touching the clouds 
+\item[{\dn praasaadaastvaa.m}]  These mansions (as described above)
+\item[{\dn tulayitumala.m}] Are comparable 
+\item[{\dn yatra taistairvi"se.saiH}] with your presence (?)
+\end{enumerate}
+#+end_src
+(skt:liha)
+** 68
+   :PROPERTIES:
+   :ID:       5432b067-f521-49dd-992d-ce2b937c4dec
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 68}}
+\begin{enumerate}
+\item[{\dn haste liilaakamalamalake}] With lotuses in their hands
+\item[{\dn baalakundaanuvidDa.m}] Hair adorned with young kunda blossoms
+\item[{\dn niitaa loDraprasavarajasaa}] The pollen of Lodhra flowers...
+\item[{\dn paa.n.dutaamaanane "sriiH}] ... make their faces white
+\item[{\dn cuu.daapaa"se navakurabaka.m}] Adorning their hair with kurabaka
+\item[{\dn caaru kar.ne "sirii.sa.m}] Sirisha on their ears
+\item[{\dn siimante ca}] (Neepam) on the parting of their hair
+\item[{\dn tvadupagamaju.m}] Which bloom on your approch
+\item[{\dn yatra niipa.m vaDunaam}] 
+\end{enumerate}
+#+end_src   
+
 * footer
   :PROPERTIES:
   :ID:       e9dc86e4-a234-452f-a773-d32b0b385969
@@ -1479,8 +1541,6 @@ skt:candramauli
 * Notes
 - 17 syllables
 - Vibhag:  4, 6, 7
-* Tasks                                                            :noexport:
-** TODO 29 vakara pantha
 * local variables                                                  :noexport:
 
 # Local Variables:
