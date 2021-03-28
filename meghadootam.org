@@ -1526,7 +1526,119 @@ skt:candramauli
 \item[{\dn yatra niipa.m vaDunaam}] 
 \end{enumerate}
 #+end_src   
-
+** 69
+   :PROPERTIES:
+   :ID:       8cbcd3d8-0e2a-422f-95a0-74148d974fcc
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 69}}
+\begin{enumerate}
+\item[{\dn yatronmattaBramaramuKaraaH}] (Trees) with resounding sound of bees buzzing
+\item[{\dn paadapaa nityapu.spaa}] Everyday-flower-bearing trees (lit. those which drink with their legs)
+\item[{\dn ha.msa"sre.niiracitara"sanaa}] Like a skirt formed by swans sitting in rows (by lotuses)
+\item[{\dn nityapadmaa nalinyaH}] Lotus bearing plants smile, with (swans..)
+\item[{\dn kekotka.n.Taa}] Crowing with upward pointing necks
+\item[{\dn Bavana"siKino}] the household peacocks
+\item[{\dn nityaBaasvatkalaapaa}]with their shining feathers?
+\item[{\dn nityajyotsnaaH}] Due to the bright light everyday
+\item[{\dn pratihatatamov.rttirmyaaH prado"saaH}] The nights appear beautiful ({\dn prado"saaH} = night)
+\end{enumerate}
+#+end_src   
+** 70
+   :PROPERTIES:
+   :ID:       91ee7c63-8f52-4f38-a03b-8048221eeedf
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 70}}
+\begin{enumerate}
+\item[{\dn aanandotTa.m nayanasalila.m}] The tears flowing from the eyes only have happy causes here.
+\item[{\dn yatra naanyairnimittaiH}] With no other troubles/torment..
+\item[{\dn naanyastaapaH kusuma"sarajaat}] No torment except by the arrow of Kama/Manmatha.
+\item[{\dn i.s.tasa.myogasaaDyaat}] 
+\item[{\dn naapyanyasmaat}] No troubles except
+\item[{\dn pra.nayakalahaadviprayogopapattiH}] knowing lover's quarrels
+\item[{\dn vitte"saanaa.m na ca Kalu}] These lords of wealth know not
+\item[{\dn vayo yauvanaadanyadasti}] age apart from youth.
+\end{enumerate}
+#+end_src   
+* [2021-03-21 Sun]
+** 71
+   :PROPERTIES:
+   :ID:       3c61493b-5241-4950-b2c5-0f815d326472
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 71}}
+\begin{enumerate}
+\item[{\dn yasyaa.m yak.saaH}] The yakshas there
+\item[{\dn sitama.nimayaanyetya}] 
+\item[{\dn harmyasTalaani}] retreat to their abodes
+\item[{\dn jyoti"sCaayaakusumaracitaa}] adorned with (crystals?) star like glimmering decorations
+\item[{\dn anyuttamastriisahaayaaH}] With their most beautiful women
+\item[{\dn aasevante}] consume 
+\item[{\dn maDu ratiPala.m}] the wine Ratiphala
+\item[{\dn kalpav.rk.saprasuuta.m }] from the kalpavruksha tree
+\item[{\dn tvadgamBiiraDvani.su}]  There, (gently) rumble
+\item[{\dn "sanakaiH pu.skare.svaahate.su}] gently like a drum
+\end{enumerate}
+#+end_src
+** 72
+   :PROPERTIES:
+   :ID:       3e71e26b-0359-4c5c-a6e3-3cb6160e9fb6
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 72}}
+\begin{enumerate}
+\item[{\dn mandaakinyaaH salila"si"siraiH}] (Fanned) by the cool breeze of the Mandakini
+\item[{\dn sevyamaanaa maruBdiH}] Fanned by 
+\item[{\dn mandaaraa.naamanuta.taruhaa.m}] under the shade of the Mandaara trees
+\item[{\dn Caayayaa vaarito.s.naaH}] 
+\item[{\dn anve.s.tavyaiH kanakasikataa}]
+\item[{\dn mu.s.tinik.sepaguu.DaiH}]
+\item[{\dn sa.mkrii.dante ma.niBiramarapraarTinaa}]
+\item[{\dn yatra kanyaaH}]   
+\end{enumerate}
+#+end_src
+* [2021-03-28 Sun]
+** 73
+   :PROPERTIES:
+   :ID:       c7466f51-6d82-4caf-9a56-9ae97b2ec2ae
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 73}}
+\begin{enumerate}
+\item[{\dn niiviibanDo}] 
+\item[{\dn cCvasita"siTila.m}] 
+\item[{\dn yatra biimbaaDara.naa.m}] Cherry like lips
+\item[{\dn k.sauma.m}] 
+\item[{\dn raagaadaniB.rtakare.svaak.sapatsu}] 
+\item[{\dn priye"su}]
+\item[{\dn arcistu"ngaanaBimuKamapi}]   
+\item[{\dn praapya ratnapradiipaan}] 
+\item[{\dn hriimuu.Daanaa.m}] 
+\item[{\dn Bavati}] 
+\item[{\dn viPalaprera.naa cuur.namu.s.tiH}] 
+\end{enumerate}
+#+end_src
+** 74
+   :PROPERTIES:
+   :ID:       c7466f51-6d82-4caf-9a56-9ae97b2ec2ae
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 74}}
+\begin{enumerate}
+\item[{\dn netraa niitaaH}] Having led to 
+\item[{\dn satatagatinaa}] Your constant motion
+\item[{\dn yadvimaanaagraBumii}] 
+\item[{\dn raaleKyaanaa.m}] 
+\item[{\dn salilaka.nikaado.somutpaadya sadyaH}] Water droplets which ruin paintings?
+\item[{\dn "sa"nkaasp.r.s.taa iva}]  thus feeling fear
+\item[{\dn jalamucastvaatta"saa}] becoming droplets
+\item[{\dn jaalamaargaiH}] via the latticed windows
+\item[{\dn Duumodgaaraanuk.rtinipu.naa}] 
+\item[{\dn jarjaraa ni.spatanti}] escape like smoke
+\end{enumerate}
+#+end_src
+skt:netraa
 * footer
   :PROPERTIES:
   :ID:       e9dc86e4-a234-452f-a773-d32b0b385969
