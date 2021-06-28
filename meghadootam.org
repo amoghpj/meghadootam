@@ -1639,6 +1639,115 @@ skt:candramauli
 \end{enumerate}
 #+end_src
 skt:netraa
+* [2021-04-18 Sun]
+** 75 
+   :PROPERTIES:
+   :ID:       69c8b543-705e-4c07-8df5-a4348fd82029
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 75}}
+\begin{enumerate}
+\item[{\dn yatra strii.naa.m}] There (In Alakapuri) the women
+\item[{\dn priyatamaBujocCvaasitaali"ngitaanaa.m}] 
+\item[{\dn a"ngaglaani.m}] Bodily pain (?)
+\item[{\dn suratajanitaa.m}] Love making?
+\item[{\dn tantujaalaavalambaaH}] The grille/network of moonstones
+\item[{\dn svatsa.mroDaapagamavi"sada"svandrapaadairni"siiTe}] 
+\item[{\dn vyaalumpanti}] 
+\item[{\dn sphu.tajalalavasyandina"s}] 
+\item[{\dn candrakaantaaH}] 
+\end{enumerate}
+#+end_src
+** TODO 76
+   :PROPERTIES:
+   :ID:       b8f4aa14-1484-4321-8e71-3ce915e5da9f
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 76}}
+\begin{enumerate}
+\item[{\dn ak"syayyaantarBavanniDayaH}] 
+\item[{\dn pratyaha.m raktaka.n.Tai}] 
+\item[{\dn rudgaayadBirDanapatiya"saH}] 
+\item[{\dn kinarairyatra}] 
+\item[{\dn saarDam}] 
+\item[{\dn vaiBraajaKya.m}] 
+\item[{\dn vibuDavanitaavaaramuKyaayahaayaa}] 
+\item[{\dn badDaalaapaa bahirupavana.m}] 
+\item[{\dn kaamino}] 
+\item[{\dn nirvi"santi}] 
+\end{enumerate}
+#+end_src
+
+skt:vai"sya
+* [2021-06-27 Sun]
+** TODO 77
+   :PROPERTIES:
+   :ID:       a082801b-3ca3-4d1d-ac25-929d694c1810
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 77}}
+\begin{enumerate}
+\item[{\dn gatyutkampaadalakapatitairyatra}] 
+\end{enumerate}
+#+end_src
+** 78 
+   :PROPERTIES:
+   :ID:       8a1383e4-4753-4d95-841c-2b69662a7086
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 78}}
+\begin{enumerate}
+\item[{\dn patra"syaamaa}] 
+\item[{\dn dinakarahayasparDino}] 
+\item[{\dn yatra vahaaH}] 
+\item[{\dn "sailodagraasnvamiva}] 
+\item[{\dn kari.no}] 
+\item[{\dn v.r.s.timantaH}] 
+\item[{\dn praBedaat}] 
+\item[{\dn yoDaagra.nyaH}] 
+\item[{\dn pratida"samuKam}] 
+\item[{\dn sa.myuge tasTivaa.msaH}] 
+\item[{\dn patyaadi.s.taaBara.narucaya"scandrahaasavra.naa"nkaiH}] 
+\end{enumerate}
+#+end_src
+** 79
+   :PROPERTIES:
+   :ID:       08f55b60-ec0f-4b95-b23e-c37101fec624
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 79}}
+\begin{enumerate}
+\item[{\dn matvaa }] Knowing that
+\item[{\dn deva.m  DanapatisaKa.m yatra}] Friend of Kubera (Siva)
+\item[{\dn saak"saadvasanta.m}] lives there in person
+\item[{\dn praaya"scaapa.m na vahati}] Doens't fire his bow (of bees)
+\item[{\dn BayaanmanmaTaH}]  Manmatha (doesn't fire) out of fear
+\item[{\dn .sa.tpadajyam}] (of bees)
+\item[{\dn saBruuB.ngaprahitanayanaiH}] Using their eyebrows
+\item[{\dn kaamilak"sye.svamoGaiH}] (The clever women) with extraordinary aim
+\item[{\dn nasyaaramBa"scaturavanitaaviBramaireva}] The clever women do Manmatha's arrows' work
+\item[{\dn sidDaH}] 
+\end{enumerate}
+#+end_src
+** 80
+   :PROPERTIES:
+   :ID:       933f14df-befb-426e-958a-182ec8a78f01
+   :END:
+#+begin_src devanagari
+\section*{{\dn \dnnum 80}}
+\begin{enumerate}
+\item[{\dn tatraagaara.m Danapatig.rhaan}] There, (north of) Kubera's mansion 
+\item[{\dn uttare.naasmdiiya.m}] 
+\item[{\dn duuraallak.sya.m}] In the distance 
+\item[{\dn surapatiDanu"scaaru.naa tora.nena}] Indra's bow (rainbow) appearing as a torana
+\item[{\dn yasyopaante}] There you will see
+\item[{\dn k.rtakatanayaH}] "created son", made up son
+\item[{\dn kaantayaa}] My wife
+\item[{\dn varDito me}] has been doing/raising
+\item[{\dn hastapraapyastabakanamito}] (Tree identifiable by ) clusters of flowers reachable by hand
+\item[{\dn balamandaarav.rk.saH}] Mandara tree (raised as a) son
+\end{enumerate}
+#+end_src
 * footer
   :PROPERTIES:
   :ID:       e9dc86e4-a234-452f-a773-d32b0b385969
